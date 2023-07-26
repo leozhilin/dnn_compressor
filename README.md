@@ -14,7 +14,7 @@ This project is a code replication of the paper titled “Design of a Quantizati
 
 ### 量化位宽的选择
 
-<img src="C:\Users\leo\AppData\Roaming\Typora\typora-user-images\image-20230718145834418.png" alt="image-20230718145834418" style="zoom: 25%;" />
+<img src="./figures/image-20230718145834418.png" alt="image-20230718145834418" style="zoom: 25%;" />
 
 - 根据网络获取到每层的权重数量m
 
@@ -28,11 +28,11 @@ $$
 
 - 根据m计算加权熵
 
-<img src="C:\Users\leo\AppData\Roaming\Typora\typora-user-images\image-20230718150117755.png" alt="image-20230718150117755" style="zoom: 33%;" />
+<img src="./figures/image-20230718150117755.png" alt="image-20230718150117755" style="zoom: 33%;" />
 
 - 根据加权熵为每层分配位宽
 
-<img src="C:\Users\leo\AppData\Roaming\Typora\typora-user-images\image-20230718150136241.png" alt="image-20230718150136241" style="zoom:33%;" />
+<img src="./figures/image-20230718150136241.png" alt="image-20230718150136241" style="zoom:33%;" />
 
 ```python
 def calculate_bit_width(model, L=100, k=10):
@@ -89,9 +89,9 @@ $$
 
 将float转换为int
 
-<img src="C:\Users\leo\AppData\Roaming\Typora\typora-user-images\image-20230718150603782.png" alt="image-20230718150603782" style="zoom:33%;" />
+<img src="./figures/image-20230718150603782.png" alt="image-20230718150603782" style="zoom:33%;" />
 
-<img src="C:\Users\leo\AppData\Roaming\Typora\typora-user-images\image-20230718150615400.png" alt="image-20230718150615400" style="zoom:33%;" />
+<img src="./figures/image-20230718150615400.png" alt="image-20230718150615400" style="zoom:33%;" />
 
 ```python
 #计算量化所需的S和Z
@@ -189,7 +189,7 @@ def delta_calculator(modelx, modely):
     return delta
 ```
 
-<img src="C:\Users\leo\AppData\Roaming\Typora\typora-user-images\image-20230718162213367.png" alt="image-20230718162213367" style="zoom:33%;" />
+<img src="./figures/image-20230718162213367.png" alt="image-20230718162213367" style="zoom:33%;" />
 
 > 感觉就是对两个相邻模型做差分就好了
 
