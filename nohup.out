@@ -1,0 +1,3737 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch:1,Minibatch:1,loss:2.3831
+Accuracy of the network on the train images: 0 %
+Epoch:1,Minibatch:101,loss:1.6502
+Accuracy of the network on the train images: 23 %
+Epoch:1,Minibatch:201,loss:1.6871
+Accuracy of the network on the train images: 26 %
+Epoch:1,Minibatch:301,loss:1.5934
+Accuracy of the network on the train images: 29 %
+Epoch:1,Minibatch:401,loss:1.3258
+Accuracy of the network on the train images: 31 %
+Epoch:1,Minibatch:501,loss:1.4843
+Accuracy of the network on the train images: 34 %
+Epoch:1,Minibatch:601,loss:1.7366
+Accuracy of the network on the train images: 35 %
+Epoch:1,Minibatch:701,loss:1.3996
+Accuracy of the network on the train images: 37 %
+Epoch:1,Minibatch:801,loss:1.1528
+Accuracy of the network on the train images: 38 %
+Epoch:1,Minibatch:901,loss:1.2666
+Accuracy of the network on the train images: 40 %
+Epoch:1,Minibatch:1001,loss:1.4292
+Accuracy of the network on the train images: 41 %
+Epoch:1,Minibatch:1101,loss:1.8446
+Accuracy of the network on the train images: 42 %
+Epoch:1,Minibatch:1201,loss:0.9263
+Accuracy of the network on the train images: 43 %
+Epoch:1,Minibatch:1301,loss:0.8782
+Accuracy of the network on the train images: 44 %
+Epoch:1,Minibatch:1401,loss:1.0707
+Accuracy of the network on the train images: 46 %
+Epoch:1,Minibatch:1501,loss:1.1324
+Accuracy of the network on the train images: 46 %
+Compressing...
+Epoch:2,Minibatch:1,loss:0.9995
+Accuracy of the network on the train images: 62 %
+Epoch:2,Minibatch:101,loss:0.7862
+Accuracy of the network on the train images: 61 %
+Epoch:2,Minibatch:201,loss:0.9580
+Accuracy of the network on the train images: 61 %
+Epoch:2,Minibatch:301,loss:1.3718
+Accuracy of the network on the train images: 62 %
+Epoch:2,Minibatch:401,loss:0.9595
+Accuracy of the network on the train images: 62 %
+Epoch:2,Minibatch:501,loss:1.0287
+Accuracy of the network on the train images: 62 %
+Epoch:2,Minibatch:601,loss:1.0010
+Accuracy of the network on the train images: 63 %
+Epoch:2,Minibatch:701,loss:0.7114
+Accuracy of the network on the train images: 63 %
+Epoch:2,Minibatch:801,loss:0.9324
+Accuracy of the network on the train images: 64 %
+Epoch:2,Minibatch:901,loss:0.9534
+Accuracy of the network on the train images: 64 %
+Epoch:2,Minibatch:1001,loss:0.9062
+Accuracy of the network on the train images: 64 %
+Epoch:2,Minibatch:1101,loss:0.7665
+Accuracy of the network on the train images: 65 %
+Epoch:2,Minibatch:1201,loss:0.9583
+Accuracy of the network on the train images: 65 %
+Epoch:2,Minibatch:1301,loss:1.1631
+Accuracy of the network on the train images: 65 %
+Epoch:2,Minibatch:1401,loss:0.9495
+Accuracy of the network on the train images: 65 %
+Epoch:2,Minibatch:1501,loss:0.8538
+Accuracy of the network on the train images: 66 %
+Compressing...
+Epoch:3,Minibatch:1,loss:1.0604
+Accuracy of the network on the train images: 62 %
+Epoch:3,Minibatch:101,loss:0.6872
+Accuracy of the network on the train images: 72 %
+Epoch:3,Minibatch:201,loss:0.4934
+Accuracy of the network on the train images: 72 %
+Epoch:3,Minibatch:301,loss:0.7397
+Accuracy of the network on the train images: 72 %
+Epoch:3,Minibatch:401,loss:0.8545
+Accuracy of the network on the train images: 72 %
+Epoch:3,Minibatch:501,loss:0.4315
+Accuracy of the network on the train images: 72 %
+Epoch:3,Minibatch:601,loss:0.6822
+Accuracy of the network on the train images: 72 %
+Epoch:3,Minibatch:701,loss:0.6171
+Accuracy of the network on the train images: 72 %
+Epoch:3,Minibatch:801,loss:0.4039
+Accuracy of the network on the train images: 73 %
+Epoch:3,Minibatch:901,loss:0.7429
+Accuracy of the network on the train images: 73 %
+Epoch:3,Minibatch:1001,loss:1.1157
+Accuracy of the network on the train images: 73 %
+Epoch:3,Minibatch:1101,loss:0.7413
+Accuracy of the network on the train images: 73 %
+Epoch:3,Minibatch:1201,loss:0.4696
+Accuracy of the network on the train images: 73 %
+Epoch:3,Minibatch:1301,loss:0.7903
+Accuracy of the network on the train images: 73 %
+Epoch:3,Minibatch:1401,loss:0.5632
+Accuracy of the network on the train images: 73 %
+Epoch:3,Minibatch:1501,loss:0.4046
+Accuracy of the network on the train images: 74 %
+Compressing...
+Epoch:4,Minibatch:1,loss:0.7474
+Accuracy of the network on the train images: 68 %
+Epoch:4,Minibatch:101,loss:0.5869
+Accuracy of the network on the train images: 76 %
+Epoch:4,Minibatch:201,loss:0.7584
+Accuracy of the network on the train images: 76 %
+Epoch:4,Minibatch:301,loss:1.0843
+Accuracy of the network on the train images: 76 %
+Epoch:4,Minibatch:401,loss:0.6823
+Accuracy of the network on the train images: 76 %
+Epoch:4,Minibatch:501,loss:0.4372
+Accuracy of the network on the train images: 77 %
+Epoch:4,Minibatch:601,loss:0.7576
+Accuracy of the network on the train images: 77 %
+Epoch:4,Minibatch:701,loss:0.7050
+Accuracy of the network on the train images: 77 %
+Epoch:4,Minibatch:801,loss:0.6597
+Accuracy of the network on the train images: 77 %
+Epoch:4,Minibatch:901,loss:0.6153
+Accuracy of the network on the train images: 77 %
+Epoch:4,Minibatch:1001,loss:0.6416
+Accuracy of the network on the train images: 77 %
+Epoch:4,Minibatch:1101,loss:0.6867
+Accuracy of the network on the train images: 77 %
+Epoch:4,Minibatch:1201,loss:0.5941
+Accuracy of the network on the train images: 77 %
+Epoch:4,Minibatch:1301,loss:0.5193
+Accuracy of the network on the train images: 77 %
+Epoch:4,Minibatch:1401,loss:0.5031
+Accuracy of the network on the train images: 77 %
+Epoch:4,Minibatch:1501,loss:0.3129
+Accuracy of the network on the train images: 78 %
+Compressing...
+Epoch:5,Minibatch:1,loss:0.3446
+Accuracy of the network on the train images: 87 %
+Epoch:5,Minibatch:101,loss:0.9746
+Accuracy of the network on the train images: 80 %
+Epoch:5,Minibatch:201,loss:0.4879
+Accuracy of the network on the train images: 80 %
+Epoch:5,Minibatch:301,loss:0.5949
+Accuracy of the network on the train images: 80 %
+Epoch:5,Minibatch:401,loss:0.5152
+Accuracy of the network on the train images: 80 %
+Epoch:5,Minibatch:501,loss:0.6276
+Accuracy of the network on the train images: 80 %
+Epoch:5,Minibatch:601,loss:0.3807
+Accuracy of the network on the train images: 80 %
+Epoch:5,Minibatch:701,loss:0.2847
+Accuracy of the network on the train images: 80 %
+Epoch:5,Minibatch:801,loss:0.5745
+Accuracy of the network on the train images: 80 %
+Epoch:5,Minibatch:901,loss:1.0430
+Accuracy of the network on the train images: 80 %
+Epoch:5,Minibatch:1001,loss:0.6026
+Accuracy of the network on the train images: 80 %
+Epoch:5,Minibatch:1101,loss:0.6564
+Accuracy of the network on the train images: 80 %
+Epoch:5,Minibatch:1201,loss:0.5480
+Accuracy of the network on the train images: 80 %
+Epoch:5,Minibatch:1301,loss:0.5841
+Accuracy of the network on the train images: 80 %
+Epoch:5,Minibatch:1401,loss:0.5612
+Accuracy of the network on the train images: 80 %
+Epoch:5,Minibatch:1501,loss:0.4183
+Accuracy of the network on the train images: 80 %
+Compressing...
+Epoch:6,Minibatch:1,loss:0.3973
+Accuracy of the network on the train images: 90 %
+Epoch:6,Minibatch:101,loss:0.5882
+Accuracy of the network on the train images: 81 %
+Epoch:6,Minibatch:201,loss:0.4731
+Accuracy of the network on the train images: 82 %
+Epoch:6,Minibatch:301,loss:0.8209
+Accuracy of the network on the train images: 82 %
+Epoch:6,Minibatch:401,loss:0.4757
+Accuracy of the network on the train images: 82 %
+Epoch:6,Minibatch:501,loss:0.5295
+Accuracy of the network on the train images: 82 %
+Epoch:6,Minibatch:601,loss:0.6233
+Accuracy of the network on the train images: 82 %
+Epoch:6,Minibatch:701,loss:0.5938
+Accuracy of the network on the train images: 82 %
+Epoch:6,Minibatch:801,loss:0.7014
+Accuracy of the network on the train images: 82 %
+Epoch:6,Minibatch:901,loss:0.4640
+Accuracy of the network on the train images: 82 %
+Epoch:6,Minibatch:1001,loss:0.5659
+Accuracy of the network on the train images: 82 %
+Epoch:6,Minibatch:1101,loss:0.3459
+Accuracy of the network on the train images: 82 %
+Epoch:6,Minibatch:1201,loss:0.6522
+Accuracy of the network on the train images: 82 %
+Epoch:6,Minibatch:1301,loss:0.4674
+Accuracy of the network on the train images: 82 %
+Epoch:6,Minibatch:1401,loss:0.5177
+Accuracy of the network on the train images: 82 %
+Epoch:6,Minibatch:1501,loss:0.3342
+Accuracy of the network on the train images: 82 %
+Compressing...
+Epoch:7,Minibatch:1,loss:0.4435
+Accuracy of the network on the train images: 81 %
+Epoch:7,Minibatch:101,loss:0.4207
+Accuracy of the network on the train images: 84 %
+Epoch:7,Minibatch:201,loss:0.5029
+Accuracy of the network on the train images: 84 %
+Epoch:7,Minibatch:301,loss:0.6372
+Accuracy of the network on the train images: 84 %
+Epoch:7,Minibatch:401,loss:0.5565
+Accuracy of the network on the train images: 84 %
+Epoch:7,Minibatch:501,loss:0.4493
+Accuracy of the network on the train images: 84 %
+Epoch:7,Minibatch:601,loss:0.3773
+Accuracy of the network on the train images: 84 %
+Epoch:7,Minibatch:701,loss:0.3732
+Accuracy of the network on the train images: 84 %
+Epoch:7,Minibatch:801,loss:0.2333
+Accuracy of the network on the train images: 84 %
+Epoch:7,Minibatch:901,loss:0.5909
+Accuracy of the network on the train images: 84 %
+Epoch:7,Minibatch:1001,loss:0.3963
+Accuracy of the network on the train images: 84 %
+Epoch:7,Minibatch:1101,loss:0.6869
+Accuracy of the network on the train images: 84 %
+Epoch:7,Minibatch:1201,loss:0.3888
+Accuracy of the network on the train images: 84 %
+Epoch:7,Minibatch:1301,loss:0.3651
+Accuracy of the network on the train images: 84 %
+Epoch:7,Minibatch:1401,loss:0.3990
+Accuracy of the network on the train images: 84 %
+Epoch:7,Minibatch:1501,loss:0.3437
+Accuracy of the network on the train images: 84 %
+Compressing...
+Epoch:8,Minibatch:1,loss:0.3124
+Accuracy of the network on the train images: 87 %
+Epoch:8,Minibatch:101,loss:0.4091
+Accuracy of the network on the train images: 85 %
+Epoch:8,Minibatch:201,loss:0.1866
+Accuracy of the network on the train images: 85 %
+Epoch:8,Minibatch:301,loss:0.2299
+Accuracy of the network on the train images: 85 %
+Epoch:8,Minibatch:401,loss:0.3898
+Accuracy of the network on the train images: 85 %
+Epoch:8,Minibatch:501,loss:0.4979
+Accuracy of the network on the train images: 86 %
+Epoch:8,Minibatch:601,loss:0.6120
+Accuracy of the network on the train images: 86 %
+Epoch:8,Minibatch:701,loss:0.2288
+Accuracy of the network on the train images: 86 %
+Epoch:8,Minibatch:801,loss:0.5580
+Accuracy of the network on the train images: 86 %
+Epoch:8,Minibatch:901,loss:0.4051
+Accuracy of the network on the train images: 85 %
+Epoch:8,Minibatch:1001,loss:0.3753
+Accuracy of the network on the train images: 86 %
+Epoch:8,Minibatch:1101,loss:0.4561
+Accuracy of the network on the train images: 86 %
+Epoch:8,Minibatch:1201,loss:0.5284
+Accuracy of the network on the train images: 86 %
+Epoch:8,Minibatch:1301,loss:0.2912
+Accuracy of the network on the train images: 86 %
+Epoch:8,Minibatch:1401,loss:0.2429
+Accuracy of the network on the train images: 86 %
+Epoch:8,Minibatch:1501,loss:0.5630
+Accuracy of the network on the train images: 86 %
+Compressing...
+Epoch:9,Minibatch:1,loss:0.3372
+Accuracy of the network on the train images: 90 %
+Epoch:9,Minibatch:101,loss:0.4533
+Accuracy of the network on the train images: 87 %
+Epoch:9,Minibatch:201,loss:0.3365
+Accuracy of the network on the train images: 87 %
+Epoch:9,Minibatch:301,loss:0.2230
+Accuracy of the network on the train images: 87 %
+Epoch:9,Minibatch:401,loss:0.4306
+Accuracy of the network on the train images: 87 %
+Epoch:9,Minibatch:501,loss:0.3802
+Accuracy of the network on the train images: 87 %
+Epoch:9,Minibatch:601,loss:0.4855
+Accuracy of the network on the train images: 87 %
+Epoch:9,Minibatch:701,loss:0.5202
+Accuracy of the network on the train images: 87 %
+Epoch:9,Minibatch:801,loss:0.4464
+Accuracy of the network on the train images: 87 %
+Epoch:9,Minibatch:901,loss:0.2339
+Accuracy of the network on the train images: 87 %
+Epoch:9,Minibatch:1001,loss:0.7872
+Accuracy of the network on the train images: 87 %
+Epoch:9,Minibatch:1101,loss:0.4710
+Accuracy of the network on the train images: 86 %
+Epoch:9,Minibatch:1201,loss:0.2459
+Accuracy of the network on the train images: 86 %
+Epoch:9,Minibatch:1301,loss:0.3777
+Accuracy of the network on the train images: 86 %
+Epoch:9,Minibatch:1401,loss:0.1851
+Accuracy of the network on the train images: 87 %
+Epoch:9,Minibatch:1501,loss:0.2849
+Accuracy of the network on the train images: 87 %
+Compressing...
+Epoch:10,Minibatch:1,loss:0.3877
+Accuracy of the network on the train images: 90 %
+Epoch:10,Minibatch:101,loss:0.3333
+Accuracy of the network on the train images: 89 %
+Epoch:10,Minibatch:201,loss:0.2073
+Accuracy of the network on the train images: 88 %
+Epoch:10,Minibatch:301,loss:0.3309
+Accuracy of the network on the train images: 88 %
+Epoch:10,Minibatch:401,loss:0.5536
+Accuracy of the network on the train images: 88 %
+Epoch:10,Minibatch:501,loss:0.3462
+Accuracy of the network on the train images: 88 %
+Epoch:10,Minibatch:601,loss:0.5759
+Accuracy of the network on the train images: 88 %
+Epoch:10,Minibatch:701,loss:0.5647
+Accuracy of the network on the train images: 88 %
+Epoch:10,Minibatch:801,loss:0.1281
+Accuracy of the network on the train images: 88 %
+Epoch:10,Minibatch:901,loss:0.6292
+Accuracy of the network on the train images: 88 %
+Epoch:10,Minibatch:1001,loss:0.3057
+Accuracy of the network on the train images: 88 %
+Epoch:10,Minibatch:1101,loss:0.5772
+Accuracy of the network on the train images: 88 %
+Epoch:10,Minibatch:1201,loss:0.3732
+Accuracy of the network on the train images: 88 %
+Epoch:10,Minibatch:1301,loss:0.3759
+Accuracy of the network on the train images: 88 %
+Epoch:10,Minibatch:1401,loss:0.5546
+Accuracy of the network on the train images: 88 %
+Epoch:10,Minibatch:1501,loss:0.7400
+Accuracy of the network on the train images: 88 %
+Compressing...
+Epoch:11,Minibatch:1,loss:0.4693
+Accuracy of the network on the train images: 84 %
+Epoch:11,Minibatch:101,loss:0.3390
+Accuracy of the network on the train images: 90 %
+Epoch:11,Minibatch:201,loss:0.2157
+Accuracy of the network on the train images: 90 %
+Epoch:11,Minibatch:301,loss:0.2276
+Accuracy of the network on the train images: 89 %
+Epoch:11,Minibatch:401,loss:0.2378
+Accuracy of the network on the train images: 89 %
+Epoch:11,Minibatch:501,loss:0.2946
+Accuracy of the network on the train images: 89 %
+Epoch:11,Minibatch:601,loss:0.2957
+Accuracy of the network on the train images: 89 %
+Epoch:11,Minibatch:701,loss:0.1930
+Accuracy of the network on the train images: 89 %
+Epoch:11,Minibatch:801,loss:0.2486
+Accuracy of the network on the train images: 89 %
+Epoch:11,Minibatch:901,loss:0.1336
+Accuracy of the network on the train images: 89 %
+Epoch:11,Minibatch:1001,loss:0.3307
+Accuracy of the network on the train images: 89 %
+Epoch:11,Minibatch:1101,loss:0.4147
+Accuracy of the network on the train images: 89 %
+Epoch:11,Minibatch:1201,loss:0.0882
+Accuracy of the network on the train images: 89 %
+Epoch:11,Minibatch:1301,loss:0.5741
+Accuracy of the network on the train images: 89 %
+Epoch:11,Minibatch:1401,loss:0.4034
+Accuracy of the network on the train images: 89 %
+Epoch:11,Minibatch:1501,loss:0.4478
+Accuracy of the network on the train images: 89 %
+Compressing...
+Epoch:12,Minibatch:1,loss:0.2516
+Accuracy of the network on the train images: 93 %
+Epoch:12,Minibatch:101,loss:0.2401
+Accuracy of the network on the train images: 90 %
+Epoch:12,Minibatch:201,loss:0.1525
+Accuracy of the network on the train images: 90 %
+Epoch:12,Minibatch:301,loss:0.5120
+Accuracy of the network on the train images: 90 %
+Epoch:12,Minibatch:401,loss:0.2982
+Accuracy of the network on the train images: 90 %
+Epoch:12,Minibatch:501,loss:0.1946
+Accuracy of the network on the train images: 90 %
+Epoch:12,Minibatch:601,loss:0.2385
+Accuracy of the network on the train images: 90 %
+Epoch:12,Minibatch:701,loss:0.4520
+Accuracy of the network on the train images: 90 %
+Epoch:12,Minibatch:801,loss:0.2693
+Accuracy of the network on the train images: 90 %
+Epoch:12,Minibatch:901,loss:0.2382
+Accuracy of the network on the train images: 90 %
+Epoch:12,Minibatch:1001,loss:0.3479
+Accuracy of the network on the train images: 90 %
+Epoch:12,Minibatch:1101,loss:0.1474
+Accuracy of the network on the train images: 89 %
+Epoch:12,Minibatch:1201,loss:0.1685
+Accuracy of the network on the train images: 89 %
+Epoch:12,Minibatch:1301,loss:0.3597
+Accuracy of the network on the train images: 89 %
+Epoch:12,Minibatch:1401,loss:0.5552
+Accuracy of the network on the train images: 90 %
+Epoch:12,Minibatch:1501,loss:0.4056
+Accuracy of the network on the train images: 89 %
+Compressing...
+Epoch:13,Minibatch:1,loss:0.0995
+Accuracy of the network on the train images: 93 %
+Epoch:13,Minibatch:101,loss:0.4209
+Accuracy of the network on the train images: 91 %
+Epoch:13,Minibatch:201,loss:0.2116
+Accuracy of the network on the train images: 91 %
+Epoch:13,Minibatch:301,loss:0.2573
+Accuracy of the network on the train images: 91 %
+Epoch:13,Minibatch:401,loss:0.2972
+Accuracy of the network on the train images: 91 %
+Epoch:13,Minibatch:501,loss:0.1744
+Accuracy of the network on the train images: 91 %
+Epoch:13,Minibatch:601,loss:0.3031
+Accuracy of the network on the train images: 91 %
+Epoch:13,Minibatch:701,loss:0.6533
+Accuracy of the network on the train images: 91 %
+Epoch:13,Minibatch:801,loss:0.3820
+Accuracy of the network on the train images: 91 %
+Epoch:13,Minibatch:901,loss:0.2149
+Accuracy of the network on the train images: 90 %
+Epoch:13,Minibatch:1001,loss:0.7979
+Accuracy of the network on the train images: 90 %
+Epoch:13,Minibatch:1101,loss:0.5798
+Accuracy of the network on the train images: 90 %
+Epoch:13,Minibatch:1201,loss:0.4047
+Accuracy of the network on the train images: 90 %
+Epoch:13,Minibatch:1301,loss:0.1969
+Accuracy of the network on the train images: 90 %
+Epoch:13,Minibatch:1401,loss:0.2739
+Accuracy of the network on the train images: 90 %
+Epoch:13,Minibatch:1501,loss:0.3756
+Accuracy of the network on the train images: 90 %
+Compressing...
+Epoch:14,Minibatch:1,loss:0.0512
+Accuracy of the network on the train images: 100 %
+Epoch:14,Minibatch:101,loss:0.0784
+Accuracy of the network on the train images: 93 %
+Epoch:14,Minibatch:201,loss:0.1751
+Accuracy of the network on the train images: 92 %
+Epoch:14,Minibatch:301,loss:0.1538
+Accuracy of the network on the train images: 91 %
+Epoch:14,Minibatch:401,loss:0.3554
+Accuracy of the network on the train images: 91 %
+Epoch:14,Minibatch:501,loss:0.7018
+Accuracy of the network on the train images: 91 %
+Epoch:14,Minibatch:601,loss:0.0817
+Accuracy of the network on the train images: 91 %
+Epoch:14,Minibatch:701,loss:0.2967
+Accuracy of the network on the train images: 91 %
+Epoch:14,Minibatch:801,loss:0.4527
+Accuracy of the network on the train images: 91 %
+Epoch:14,Minibatch:901,loss:0.2719
+Accuracy of the network on the train images: 91 %
+Epoch:14,Minibatch:1001,loss:0.2724
+Accuracy of the network on the train images: 91 %
+Epoch:14,Minibatch:1101,loss:0.2905
+Accuracy of the network on the train images: 91 %
+Epoch:14,Minibatch:1201,loss:0.1579
+Accuracy of the network on the train images: 91 %
+Epoch:14,Minibatch:1301,loss:0.3053
+Accuracy of the network on the train images: 91 %
+Epoch:14,Minibatch:1401,loss:0.4865
+Accuracy of the network on the train images: 91 %
+Epoch:14,Minibatch:1501,loss:0.2989
+Accuracy of the network on the train images: 91 %
+Compressing...
+Epoch:15,Minibatch:1,loss:0.0593
+Accuracy of the network on the train images: 100 %
+Epoch:15,Minibatch:101,loss:0.1162
+Accuracy of the network on the train images: 92 %
+Epoch:15,Minibatch:201,loss:0.2394
+Accuracy of the network on the train images: 92 %
+Epoch:15,Minibatch:301,loss:0.1769
+Accuracy of the network on the train images: 92 %
+Epoch:15,Minibatch:401,loss:0.0750
+Accuracy of the network on the train images: 92 %
+Epoch:15,Minibatch:501,loss:0.1100
+Accuracy of the network on the train images: 92 %
+Epoch:15,Minibatch:601,loss:0.3508
+Accuracy of the network on the train images: 92 %
+Epoch:15,Minibatch:701,loss:0.3058
+Accuracy of the network on the train images: 92 %
+Epoch:15,Minibatch:801,loss:0.4694
+Accuracy of the network on the train images: 91 %
+Epoch:15,Minibatch:901,loss:0.1134
+Accuracy of the network on the train images: 91 %
+Epoch:15,Minibatch:1001,loss:0.2254
+Accuracy of the network on the train images: 91 %
+Epoch:15,Minibatch:1101,loss:0.1896
+Accuracy of the network on the train images: 92 %
+Epoch:15,Minibatch:1201,loss:0.2940
+Accuracy of the network on the train images: 91 %
+Epoch:15,Minibatch:1301,loss:0.2867
+Accuracy of the network on the train images: 91 %
+Epoch:15,Minibatch:1401,loss:0.1593
+Accuracy of the network on the train images: 91 %
+Epoch:15,Minibatch:1501,loss:0.1444
+Accuracy of the network on the train images: 91 %
+Compressing...
+Epoch:16,Minibatch:1,loss:0.2298
+Accuracy of the network on the train images: 93 %
+Epoch:16,Minibatch:101,loss:0.2590
+Accuracy of the network on the train images: 93 %
+Epoch:16,Minibatch:201,loss:0.1471
+Accuracy of the network on the train images: 93 %
+Epoch:16,Minibatch:301,loss:0.1768
+Accuracy of the network on the train images: 93 %
+Epoch:16,Minibatch:401,loss:0.1389
+Accuracy of the network on the train images: 93 %
+Epoch:16,Minibatch:501,loss:0.3020
+Accuracy of the network on the train images: 92 %
+Epoch:16,Minibatch:601,loss:0.0511
+Accuracy of the network on the train images: 92 %
+Epoch:16,Minibatch:701,loss:0.1362
+Accuracy of the network on the train images: 92 %
+Epoch:16,Minibatch:801,loss:0.0857
+Accuracy of the network on the train images: 92 %
+Epoch:16,Minibatch:901,loss:0.2078
+Accuracy of the network on the train images: 92 %
+Epoch:16,Minibatch:1001,loss:0.3210
+Accuracy of the network on the train images: 92 %
+Epoch:16,Minibatch:1101,loss:0.3586
+Accuracy of the network on the train images: 92 %
+Epoch:16,Minibatch:1201,loss:0.2795
+Accuracy of the network on the train images: 92 %
+Epoch:16,Minibatch:1301,loss:0.2781
+Accuracy of the network on the train images: 92 %
+Epoch:16,Minibatch:1401,loss:0.2689
+Accuracy of the network on the train images: 92 %
+Epoch:16,Minibatch:1501,loss:0.5153
+Accuracy of the network on the train images: 92 %
+Compressing...
+Epoch:17,Minibatch:1,loss:0.4110
+Accuracy of the network on the train images: 87 %
+Epoch:17,Minibatch:101,loss:0.2777
+Accuracy of the network on the train images: 94 %
+Epoch:17,Minibatch:201,loss:0.0565
+Accuracy of the network on the train images: 93 %
+Epoch:17,Minibatch:301,loss:0.1034
+Accuracy of the network on the train images: 93 %
+Epoch:17,Minibatch:401,loss:0.2355
+Accuracy of the network on the train images: 93 %
+Epoch:17,Minibatch:501,loss:0.3941
+Accuracy of the network on the train images: 93 %
+Epoch:17,Minibatch:601,loss:0.1525
+Accuracy of the network on the train images: 93 %
+Epoch:17,Minibatch:701,loss:0.3375
+Accuracy of the network on the train images: 93 %
+Epoch:17,Minibatch:801,loss:0.2559
+Accuracy of the network on the train images: 93 %
+Epoch:17,Minibatch:901,loss:0.1376
+Accuracy of the network on the train images: 93 %
+Epoch:17,Minibatch:1001,loss:0.4715
+Accuracy of the network on the train images: 93 %
+Epoch:17,Minibatch:1101,loss:0.2853
+Accuracy of the network on the train images: 93 %
+Epoch:17,Minibatch:1201,loss:0.3067
+Accuracy of the network on the train images: 93 %
+Epoch:17,Minibatch:1301,loss:0.1509
+Accuracy of the network on the train images: 93 %
+Epoch:17,Minibatch:1401,loss:0.2153
+Accuracy of the network on the train images: 93 %
+Epoch:17,Minibatch:1501,loss:0.1283
+Accuracy of the network on the train images: 93 %
+Compressing...
+Epoch:18,Minibatch:1,loss:0.2439
+Accuracy of the network on the train images: 90 %
+Epoch:18,Minibatch:101,loss:0.1847
+Accuracy of the network on the train images: 94 %
+Epoch:18,Minibatch:201,loss:0.1564
+Accuracy of the network on the train images: 94 %
+Epoch:18,Minibatch:301,loss:0.1707
+Accuracy of the network on the train images: 94 %
+Epoch:18,Minibatch:401,loss:0.0835
+Accuracy of the network on the train images: 93 %
+Epoch:18,Minibatch:501,loss:0.2336
+Accuracy of the network on the train images: 94 %
+Epoch:18,Minibatch:601,loss:0.2632
+Accuracy of the network on the train images: 94 %
+Epoch:18,Minibatch:701,loss:0.2240
+Accuracy of the network on the train images: 93 %
+Epoch:18,Minibatch:801,loss:0.1819
+Accuracy of the network on the train images: 93 %
+Epoch:18,Minibatch:901,loss:0.0582
+Accuracy of the network on the train images: 93 %
+Epoch:18,Minibatch:1001,loss:0.0449
+Accuracy of the network on the train images: 93 %
+Epoch:18,Minibatch:1101,loss:0.2328
+Accuracy of the network on the train images: 93 %
+Epoch:18,Minibatch:1201,loss:0.1412
+Accuracy of the network on the train images: 93 %
+Epoch:18,Minibatch:1301,loss:0.1069
+Accuracy of the network on the train images: 93 %
+Epoch:18,Minibatch:1401,loss:0.5049
+Accuracy of the network on the train images: 93 %
+Epoch:18,Minibatch:1501,loss:0.0976
+Accuracy of the network on the train images: 93 %
+Compressing...
+Epoch:19,Minibatch:1,loss:0.1657
+Accuracy of the network on the train images: 93 %
+Epoch:19,Minibatch:101,loss:0.3545
+Accuracy of the network on the train images: 93 %
+Epoch:19,Minibatch:201,loss:0.0499
+Accuracy of the network on the train images: 94 %
+Epoch:19,Minibatch:301,loss:0.3149
+Accuracy of the network on the train images: 94 %
+Epoch:19,Minibatch:401,loss:0.0695
+Accuracy of the network on the train images: 94 %
+Epoch:19,Minibatch:501,loss:0.0816
+Accuracy of the network on the train images: 94 %
+Epoch:19,Minibatch:601,loss:0.1140
+Accuracy of the network on the train images: 94 %
+Epoch:19,Minibatch:701,loss:0.3032
+Accuracy of the network on the train images: 94 %
+Epoch:19,Minibatch:801,loss:0.1876
+Accuracy of the network on the train images: 93 %
+Epoch:19,Minibatch:901,loss:0.3148
+Accuracy of the network on the train images: 93 %
+Epoch:19,Minibatch:1001,loss:0.3670
+Accuracy of the network on the train images: 93 %
+Epoch:19,Minibatch:1101,loss:0.5711
+Accuracy of the network on the train images: 93 %
+Epoch:19,Minibatch:1201,loss:0.0575
+Accuracy of the network on the train images: 93 %
+Epoch:19,Minibatch:1301,loss:0.5490
+Accuracy of the network on the train images: 93 %
+Epoch:19,Minibatch:1401,loss:0.2912
+Accuracy of the network on the train images: 93 %
+Epoch:19,Minibatch:1501,loss:0.0742
+Accuracy of the network on the train images: 93 %
+Compressing...
+Epoch:20,Minibatch:1,loss:0.2118
+Accuracy of the network on the train images: 93 %
+Epoch:20,Minibatch:101,loss:0.3148
+Accuracy of the network on the train images: 95 %
+Epoch:20,Minibatch:201,loss:0.1287
+Accuracy of the network on the train images: 95 %
+Epoch:20,Minibatch:301,loss:0.0349
+Accuracy of the network on the train images: 94 %
+Epoch:20,Minibatch:401,loss:0.0753
+Accuracy of the network on the train images: 94 %
+Epoch:20,Minibatch:501,loss:0.1526
+Accuracy of the network on the train images: 94 %
+Epoch:20,Minibatch:601,loss:0.4038
+Accuracy of the network on the train images: 94 %
+Epoch:20,Minibatch:701,loss:0.1575
+Accuracy of the network on the train images: 94 %
+Epoch:20,Minibatch:801,loss:0.1482
+Accuracy of the network on the train images: 94 %
+Epoch:20,Minibatch:901,loss:0.2639
+Accuracy of the network on the train images: 94 %
+Epoch:20,Minibatch:1001,loss:0.0415
+Accuracy of the network on the train images: 94 %
+Epoch:20,Minibatch:1101,loss:0.0949
+Accuracy of the network on the train images: 94 %
+Epoch:20,Minibatch:1201,loss:0.3651
+Accuracy of the network on the train images: 94 %
+Epoch:20,Minibatch:1301,loss:0.0606
+Accuracy of the network on the train images: 94 %
+Epoch:20,Minibatch:1401,loss:0.0361
+Accuracy of the network on the train images: 94 %
+Epoch:20,Minibatch:1501,loss:0.1289
+Accuracy of the network on the train images: 94 %
+Compressing...
+Epoch:21,Minibatch:1,loss:0.0155
+Accuracy of the network on the train images: 100 %
+Epoch:21,Minibatch:101,loss:0.0812
+Accuracy of the network on the train images: 95 %
+Epoch:21,Minibatch:201,loss:0.2741
+Accuracy of the network on the train images: 95 %
+Epoch:21,Minibatch:301,loss:0.1887
+Accuracy of the network on the train images: 95 %
+Epoch:21,Minibatch:401,loss:0.1779
+Accuracy of the network on the train images: 95 %
+Epoch:21,Minibatch:501,loss:0.1478
+Accuracy of the network on the train images: 94 %
+Epoch:21,Minibatch:601,loss:0.1281
+Accuracy of the network on the train images: 94 %
+Epoch:21,Minibatch:701,loss:0.2074
+Accuracy of the network on the train images: 94 %
+Epoch:21,Minibatch:801,loss:0.1453
+Accuracy of the network on the train images: 94 %
+Epoch:21,Minibatch:901,loss:0.0733
+Accuracy of the network on the train images: 94 %
+Epoch:21,Minibatch:1001,loss:0.1138
+Accuracy of the network on the train images: 94 %
+Epoch:21,Minibatch:1101,loss:0.0928
+Accuracy of the network on the train images: 94 %
+Epoch:21,Minibatch:1201,loss:0.0983
+Accuracy of the network on the train images: 94 %
+Epoch:21,Minibatch:1301,loss:0.0539
+Accuracy of the network on the train images: 94 %
+Epoch:21,Minibatch:1401,loss:0.0474
+Accuracy of the network on the train images: 94 %
+Epoch:21,Minibatch:1501,loss:0.0348
+Accuracy of the network on the train images: 94 %
+Compressing...
+Epoch:22,Minibatch:1,loss:0.1879
+Accuracy of the network on the train images: 93 %
+Epoch:22,Minibatch:101,loss:0.1847
+Accuracy of the network on the train images: 95 %
+Epoch:22,Minibatch:201,loss:0.1536
+Accuracy of the network on the train images: 95 %
+Epoch:22,Minibatch:301,loss:0.0652
+Accuracy of the network on the train images: 95 %
+Epoch:22,Minibatch:401,loss:0.2101
+Accuracy of the network on the train images: 95 %
+Epoch:22,Minibatch:501,loss:0.1856
+Accuracy of the network on the train images: 95 %
+Epoch:22,Minibatch:601,loss:0.0290
+Accuracy of the network on the train images: 95 %
+Epoch:22,Minibatch:701,loss:0.3770
+Accuracy of the network on the train images: 95 %
+Epoch:22,Minibatch:801,loss:0.0454
+Accuracy of the network on the train images: 95 %
+Epoch:22,Minibatch:901,loss:0.0400
+Accuracy of the network on the train images: 95 %
+Epoch:22,Minibatch:1001,loss:0.2594
+Accuracy of the network on the train images: 95 %
+Epoch:22,Minibatch:1101,loss:0.1150
+Accuracy of the network on the train images: 94 %
+Epoch:22,Minibatch:1201,loss:0.1288
+Accuracy of the network on the train images: 95 %
+Epoch:22,Minibatch:1301,loss:0.0935
+Accuracy of the network on the train images: 94 %
+Epoch:22,Minibatch:1401,loss:0.1512
+Accuracy of the network on the train images: 94 %
+Epoch:22,Minibatch:1501,loss:0.1266
+Accuracy of the network on the train images: 94 %
+Compressing...
+Epoch:23,Minibatch:1,loss:0.1657
+Accuracy of the network on the train images: 96 %
+Epoch:23,Minibatch:101,loss:0.1413
+Accuracy of the network on the train images: 96 %
+Epoch:23,Minibatch:201,loss:0.1480
+Accuracy of the network on the train images: 96 %
+Epoch:23,Minibatch:301,loss:0.0807
+Accuracy of the network on the train images: 95 %
+Epoch:23,Minibatch:401,loss:0.2115
+Accuracy of the network on the train images: 95 %
+Epoch:23,Minibatch:501,loss:0.2565
+Accuracy of the network on the train images: 95 %
+Epoch:23,Minibatch:601,loss:0.0596
+Accuracy of the network on the train images: 95 %
+Epoch:23,Minibatch:701,loss:0.1220
+Accuracy of the network on the train images: 95 %
+Epoch:23,Minibatch:801,loss:0.0453
+Accuracy of the network on the train images: 95 %
+Epoch:23,Minibatch:901,loss:0.1277
+Accuracy of the network on the train images: 95 %
+Epoch:23,Minibatch:1001,loss:0.4213
+Accuracy of the network on the train images: 95 %
+Epoch:23,Minibatch:1101,loss:0.0127
+Accuracy of the network on the train images: 95 %
+Epoch:23,Minibatch:1201,loss:0.1504
+Accuracy of the network on the train images: 95 %
+Epoch:23,Minibatch:1301,loss:0.0675
+Accuracy of the network on the train images: 95 %
+Epoch:23,Minibatch:1401,loss:0.0975
+Accuracy of the network on the train images: 95 %
+Epoch:23,Minibatch:1501,loss:0.0210
+Accuracy of the network on the train images: 95 %
+Compressing...
+Epoch:24,Minibatch:1,loss:0.1470
+Accuracy of the network on the train images: 93 %
+Epoch:24,Minibatch:101,loss:0.0463
+Accuracy of the network on the train images: 96 %
+Epoch:24,Minibatch:201,loss:0.0511
+Accuracy of the network on the train images: 96 %
+Epoch:24,Minibatch:301,loss:0.0560
+Accuracy of the network on the train images: 96 %
+Epoch:24,Minibatch:401,loss:0.0209
+Accuracy of the network on the train images: 95 %
+Epoch:24,Minibatch:501,loss:0.2356
+Accuracy of the network on the train images: 96 %
+Epoch:24,Minibatch:601,loss:0.1931
+Accuracy of the network on the train images: 96 %
+Epoch:24,Minibatch:701,loss:0.0731
+Accuracy of the network on the train images: 95 %
+Epoch:24,Minibatch:801,loss:0.2344
+Accuracy of the network on the train images: 95 %
+Epoch:24,Minibatch:901,loss:0.0089
+Accuracy of the network on the train images: 95 %
+Epoch:24,Minibatch:1001,loss:0.1301
+Accuracy of the network on the train images: 95 %
+Epoch:24,Minibatch:1101,loss:0.0379
+Accuracy of the network on the train images: 95 %
+Epoch:24,Minibatch:1201,loss:0.1953
+Accuracy of the network on the train images: 95 %
+Epoch:24,Minibatch:1301,loss:0.1479
+Accuracy of the network on the train images: 95 %
+Epoch:24,Minibatch:1401,loss:0.0938
+Accuracy of the network on the train images: 95 %
+Epoch:24,Minibatch:1501,loss:0.2494
+Accuracy of the network on the train images: 95 %
+Compressing...
+Epoch:25,Minibatch:1,loss:0.0599
+Accuracy of the network on the train images: 100 %
+Epoch:25,Minibatch:101,loss:0.1500
+Accuracy of the network on the train images: 96 %
+Epoch:25,Minibatch:201,loss:0.1288
+Accuracy of the network on the train images: 96 %
+Epoch:25,Minibatch:301,loss:0.0477
+Accuracy of the network on the train images: 96 %
+Epoch:25,Minibatch:401,loss:0.0860
+Accuracy of the network on the train images: 96 %
+Epoch:25,Minibatch:501,loss:0.1761
+Accuracy of the network on the train images: 96 %
+Epoch:25,Minibatch:601,loss:0.3166
+Accuracy of the network on the train images: 96 %
+Epoch:25,Minibatch:701,loss:0.1675
+Accuracy of the network on the train images: 96 %
+Epoch:25,Minibatch:801,loss:0.2068
+Accuracy of the network on the train images: 96 %
+Epoch:25,Minibatch:901,loss:0.1343
+Accuracy of the network on the train images: 96 %
+Epoch:25,Minibatch:1001,loss:0.0410
+Accuracy of the network on the train images: 96 %
+Epoch:25,Minibatch:1101,loss:0.2407
+Accuracy of the network on the train images: 95 %
+Epoch:25,Minibatch:1201,loss:0.0601
+Accuracy of the network on the train images: 95 %
+Epoch:25,Minibatch:1301,loss:0.0963
+Accuracy of the network on the train images: 95 %
+Epoch:25,Minibatch:1401,loss:0.1908
+Accuracy of the network on the train images: 95 %
+Epoch:25,Minibatch:1501,loss:0.0265
+Accuracy of the network on the train images: 95 %
+Compressing...
+Epoch:26,Minibatch:1,loss:0.0561
+Accuracy of the network on the train images: 100 %
+Epoch:26,Minibatch:101,loss:0.0270
+Accuracy of the network on the train images: 96 %
+Epoch:26,Minibatch:201,loss:0.0972
+Accuracy of the network on the train images: 96 %
+Epoch:26,Minibatch:301,loss:0.0477
+Accuracy of the network on the train images: 96 %
+Epoch:26,Minibatch:401,loss:0.2139
+Accuracy of the network on the train images: 96 %
+Epoch:26,Minibatch:501,loss:0.1097
+Accuracy of the network on the train images: 96 %
+Epoch:26,Minibatch:601,loss:0.0333
+Accuracy of the network on the train images: 96 %
+Epoch:26,Minibatch:701,loss:0.0383
+Accuracy of the network on the train images: 96 %
+Epoch:26,Minibatch:801,loss:0.0544
+Accuracy of the network on the train images: 96 %
+Epoch:26,Minibatch:901,loss:0.0766
+Accuracy of the network on the train images: 96 %
+Epoch:26,Minibatch:1001,loss:0.0687
+Accuracy of the network on the train images: 96 %
+Epoch:26,Minibatch:1101,loss:0.1089
+Accuracy of the network on the train images: 96 %
+Epoch:26,Minibatch:1201,loss:0.0111
+Accuracy of the network on the train images: 96 %
+Epoch:26,Minibatch:1301,loss:0.0991
+Accuracy of the network on the train images: 96 %
+Epoch:26,Minibatch:1401,loss:0.1439
+Accuracy of the network on the train images: 96 %
+Epoch:26,Minibatch:1501,loss:0.1946
+Accuracy of the network on the train images: 96 %
+Compressing...
+Epoch:27,Minibatch:1,loss:0.0632
+Accuracy of the network on the train images: 96 %
+Epoch:27,Minibatch:101,loss:0.0610
+Accuracy of the network on the train images: 96 %
+Epoch:27,Minibatch:201,loss:0.0336
+Accuracy of the network on the train images: 96 %
+Epoch:27,Minibatch:301,loss:0.0117
+Accuracy of the network on the train images: 96 %
+Epoch:27,Minibatch:401,loss:0.0731
+Accuracy of the network on the train images: 96 %
+Epoch:27,Minibatch:501,loss:0.0771
+Accuracy of the network on the train images: 96 %
+Epoch:27,Minibatch:601,loss:0.0539
+Accuracy of the network on the train images: 96 %
+Epoch:27,Minibatch:701,loss:0.0328
+Accuracy of the network on the train images: 96 %
+Epoch:27,Minibatch:801,loss:0.1963
+Accuracy of the network on the train images: 96 %
+Epoch:27,Minibatch:901,loss:0.2228
+Accuracy of the network on the train images: 96 %
+Epoch:27,Minibatch:1001,loss:0.1498
+Accuracy of the network on the train images: 96 %
+Epoch:27,Minibatch:1101,loss:0.0477
+Accuracy of the network on the train images: 96 %
+Epoch:27,Minibatch:1201,loss:0.1498
+Accuracy of the network on the train images: 96 %
+Epoch:27,Minibatch:1301,loss:0.0116
+Accuracy of the network on the train images: 96 %
+Epoch:27,Minibatch:1401,loss:0.0566
+Accuracy of the network on the train images: 96 %
+Epoch:27,Minibatch:1501,loss:0.0704
+Accuracy of the network on the train images: 96 %
+Compressing...
+Epoch:28,Minibatch:1,loss:0.1013
+Accuracy of the network on the train images: 96 %
+Epoch:28,Minibatch:101,loss:0.1694
+Accuracy of the network on the train images: 97 %
+Epoch:28,Minibatch:201,loss:0.0334
+Accuracy of the network on the train images: 96 %
+Epoch:28,Minibatch:301,loss:0.0436
+Accuracy of the network on the train images: 96 %
+Epoch:28,Minibatch:401,loss:0.0127
+Accuracy of the network on the train images: 96 %
+Epoch:28,Minibatch:501,loss:0.0269
+Accuracy of the network on the train images: 96 %
+Epoch:28,Minibatch:601,loss:0.0277
+Accuracy of the network on the train images: 96 %
+Epoch:28,Minibatch:701,loss:0.0573
+Accuracy of the network on the train images: 96 %
+Epoch:28,Minibatch:801,loss:0.0611
+Accuracy of the network on the train images: 96 %
+Epoch:28,Minibatch:901,loss:0.1470
+Accuracy of the network on the train images: 96 %
+Epoch:28,Minibatch:1001,loss:0.1615
+Accuracy of the network on the train images: 96 %
+Epoch:28,Minibatch:1101,loss:0.0553
+Accuracy of the network on the train images: 96 %
+Epoch:28,Minibatch:1201,loss:0.0812
+Accuracy of the network on the train images: 96 %
+Epoch:28,Minibatch:1301,loss:0.0331
+Accuracy of the network on the train images: 96 %
+Epoch:28,Minibatch:1401,loss:0.2117
+Accuracy of the network on the train images: 96 %
+Epoch:28,Minibatch:1501,loss:0.1034
+Accuracy of the network on the train images: 96 %
+Compressing...
+Epoch:29,Minibatch:1,loss:0.2991
+Accuracy of the network on the train images: 93 %
+Epoch:29,Minibatch:101,loss:0.0361
+Accuracy of the network on the train images: 96 %
+Epoch:29,Minibatch:201,loss:0.0264
+Accuracy of the network on the train images: 96 %
+Epoch:29,Minibatch:301,loss:0.1848
+Accuracy of the network on the train images: 96 %
+Epoch:29,Minibatch:401,loss:0.1466
+Accuracy of the network on the train images: 96 %
+Epoch:29,Minibatch:501,loss:0.0417
+Accuracy of the network on the train images: 96 %
+Epoch:29,Minibatch:601,loss:0.0420
+Accuracy of the network on the train images: 96 %
+Epoch:29,Minibatch:701,loss:0.0273
+Accuracy of the network on the train images: 96 %
+Epoch:29,Minibatch:801,loss:0.0265
+Accuracy of the network on the train images: 96 %
+Epoch:29,Minibatch:901,loss:0.1109
+Accuracy of the network on the train images: 96 %
+Epoch:29,Minibatch:1001,loss:0.0324
+Accuracy of the network on the train images: 96 %
+Epoch:29,Minibatch:1101,loss:0.0998
+Accuracy of the network on the train images: 96 %
+Epoch:29,Minibatch:1201,loss:0.1723
+Accuracy of the network on the train images: 96 %
+Epoch:29,Minibatch:1301,loss:0.1013
+Accuracy of the network on the train images: 96 %
+Epoch:29,Minibatch:1401,loss:0.1431
+Accuracy of the network on the train images: 96 %
+Epoch:29,Minibatch:1501,loss:0.0942
+Accuracy of the network on the train images: 96 %
+Compressing...
+Epoch:30,Minibatch:1,loss:0.1679
+Accuracy of the network on the train images: 93 %
+Epoch:30,Minibatch:101,loss:0.0626
+Accuracy of the network on the train images: 97 %
+Epoch:30,Minibatch:201,loss:0.1371
+Accuracy of the network on the train images: 97 %
+Epoch:30,Minibatch:301,loss:0.2134
+Accuracy of the network on the train images: 97 %
+Epoch:30,Minibatch:401,loss:0.0206
+Accuracy of the network on the train images: 96 %
+Epoch:30,Minibatch:501,loss:0.0075
+Accuracy of the network on the train images: 96 %
+Epoch:30,Minibatch:601,loss:0.0743
+Accuracy of the network on the train images: 97 %
+Epoch:30,Minibatch:701,loss:0.0574
+Accuracy of the network on the train images: 97 %
+Epoch:30,Minibatch:801,loss:0.3167
+Accuracy of the network on the train images: 96 %
+Epoch:30,Minibatch:901,loss:0.0139
+Accuracy of the network on the train images: 96 %
+Epoch:30,Minibatch:1001,loss:0.1299
+Accuracy of the network on the train images: 96 %
+Epoch:30,Minibatch:1101,loss:0.0423
+Accuracy of the network on the train images: 96 %
+Epoch:30,Minibatch:1201,loss:0.0706
+Accuracy of the network on the train images: 96 %
+Epoch:30,Minibatch:1301,loss:0.0323
+Accuracy of the network on the train images: 96 %
+Epoch:30,Minibatch:1401,loss:0.1531
+Accuracy of the network on the train images: 96 %
+Epoch:30,Minibatch:1501,loss:0.0243
+Accuracy of the network on the train images: 96 %
+Compressing...
+Epoch:31,Minibatch:1,loss:0.0439
+Accuracy of the network on the train images: 100 %
+Epoch:31,Minibatch:101,loss:0.0542
+Accuracy of the network on the train images: 97 %
+Epoch:31,Minibatch:201,loss:0.0875
+Accuracy of the network on the train images: 97 %
+Epoch:31,Minibatch:301,loss:0.0446
+Accuracy of the network on the train images: 97 %
+Epoch:31,Minibatch:401,loss:0.2347
+Accuracy of the network on the train images: 97 %
+Epoch:31,Minibatch:501,loss:0.1094
+Accuracy of the network on the train images: 97 %
+Epoch:31,Minibatch:601,loss:0.0723
+Accuracy of the network on the train images: 97 %
+Epoch:31,Minibatch:701,loss:0.0398
+Accuracy of the network on the train images: 97 %
+Epoch:31,Minibatch:801,loss:0.1424
+Accuracy of the network on the train images: 97 %
+Epoch:31,Minibatch:901,loss:0.0089
+Accuracy of the network on the train images: 97 %
+Epoch:31,Minibatch:1001,loss:0.0787
+Accuracy of the network on the train images: 97 %
+Epoch:31,Minibatch:1101,loss:0.2256
+Accuracy of the network on the train images: 97 %
+Epoch:31,Minibatch:1201,loss:0.0048
+Accuracy of the network on the train images: 97 %
+Epoch:31,Minibatch:1301,loss:0.0544
+Accuracy of the network on the train images: 97 %
+Epoch:31,Minibatch:1401,loss:0.0824
+Accuracy of the network on the train images: 96 %
+Epoch:31,Minibatch:1501,loss:0.0975
+Accuracy of the network on the train images: 96 %
+Compressing...
+Epoch:32,Minibatch:1,loss:0.0034
+Accuracy of the network on the train images: 100 %
+Epoch:32,Minibatch:101,loss:0.0555
+Accuracy of the network on the train images: 97 %
+Epoch:32,Minibatch:201,loss:0.0518
+Accuracy of the network on the train images: 97 %
+Epoch:32,Minibatch:301,loss:0.0189
+Accuracy of the network on the train images: 97 %
+Epoch:32,Minibatch:401,loss:0.0799
+Accuracy of the network on the train images: 97 %
+Epoch:32,Minibatch:501,loss:0.0322
+Accuracy of the network on the train images: 97 %
+Epoch:32,Minibatch:601,loss:0.0762
+Accuracy of the network on the train images: 97 %
+Epoch:32,Minibatch:701,loss:0.0038
+Accuracy of the network on the train images: 97 %
+Epoch:32,Minibatch:801,loss:0.0255
+Accuracy of the network on the train images: 97 %
+Epoch:32,Minibatch:901,loss:0.0125
+Accuracy of the network on the train images: 97 %
+Epoch:32,Minibatch:1001,loss:0.1732
+Accuracy of the network on the train images: 97 %
+Epoch:32,Minibatch:1101,loss:0.0702
+Accuracy of the network on the train images: 97 %
+Epoch:32,Minibatch:1201,loss:0.0472
+Accuracy of the network on the train images: 97 %
+Epoch:32,Minibatch:1301,loss:0.0263
+Accuracy of the network on the train images: 97 %
+Epoch:32,Minibatch:1401,loss:0.1388
+Accuracy of the network on the train images: 97 %
+Epoch:32,Minibatch:1501,loss:0.0104
+Accuracy of the network on the train images: 97 %
+Compressing...
+Epoch:33,Minibatch:1,loss:0.1800
+Accuracy of the network on the train images: 93 %
+Epoch:33,Minibatch:101,loss:0.1247
+Accuracy of the network on the train images: 97 %
+Epoch:33,Minibatch:201,loss:0.0613
+Accuracy of the network on the train images: 97 %
+Epoch:33,Minibatch:301,loss:0.0454
+Accuracy of the network on the train images: 97 %
+Epoch:33,Minibatch:401,loss:0.1214
+Accuracy of the network on the train images: 97 %
+Epoch:33,Minibatch:501,loss:0.0669
+Accuracy of the network on the train images: 97 %
+Epoch:33,Minibatch:601,loss:0.0563
+Accuracy of the network on the train images: 97 %
+Epoch:33,Minibatch:701,loss:0.0382
+Accuracy of the network on the train images: 97 %
+Epoch:33,Minibatch:801,loss:0.0593
+Accuracy of the network on the train images: 97 %
+Epoch:33,Minibatch:901,loss:0.0292
+Accuracy of the network on the train images: 97 %
+Epoch:33,Minibatch:1001,loss:0.0566
+Accuracy of the network on the train images: 97 %
+Epoch:33,Minibatch:1101,loss:0.0212
+Accuracy of the network on the train images: 97 %
+Epoch:33,Minibatch:1201,loss:0.0156
+Accuracy of the network on the train images: 97 %
+Epoch:33,Minibatch:1301,loss:0.0253
+Accuracy of the network on the train images: 97 %
+Epoch:33,Minibatch:1401,loss:0.0225
+Accuracy of the network on the train images: 97 %
+Epoch:33,Minibatch:1501,loss:0.1318
+Accuracy of the network on the train images: 97 %
+Compressing...
+Epoch:34,Minibatch:1,loss:0.0454
+Accuracy of the network on the train images: 100 %
+Epoch:34,Minibatch:101,loss:0.0138
+Accuracy of the network on the train images: 97 %
+Epoch:34,Minibatch:201,loss:0.0360
+Accuracy of the network on the train images: 97 %
+Epoch:34,Minibatch:301,loss:0.1756
+Accuracy of the network on the train images: 97 %
+Epoch:34,Minibatch:401,loss:0.0293
+Accuracy of the network on the train images: 97 %
+Epoch:34,Minibatch:501,loss:0.1427
+Accuracy of the network on the train images: 97 %
+Epoch:34,Minibatch:601,loss:0.0474
+Accuracy of the network on the train images: 97 %
+Epoch:34,Minibatch:701,loss:0.1151
+Accuracy of the network on the train images: 97 %
+Epoch:34,Minibatch:801,loss:0.1871
+Accuracy of the network on the train images: 97 %
+Epoch:34,Minibatch:901,loss:0.2050
+Accuracy of the network on the train images: 97 %
+Epoch:34,Minibatch:1001,loss:0.0044
+Accuracy of the network on the train images: 97 %
+Epoch:34,Minibatch:1101,loss:0.0170
+Accuracy of the network on the train images: 97 %
+Epoch:34,Minibatch:1201,loss:0.0266
+Accuracy of the network on the train images: 97 %
+Epoch:34,Minibatch:1301,loss:0.1184
+Accuracy of the network on the train images: 97 %
+Epoch:34,Minibatch:1401,loss:0.1013
+Accuracy of the network on the train images: 97 %
+Epoch:34,Minibatch:1501,loss:0.0647
+Accuracy of the network on the train images: 97 %
+Compressing...
+Epoch:35,Minibatch:1,loss:0.0621
+Accuracy of the network on the train images: 96 %
+Epoch:35,Minibatch:101,loss:0.0085
+Accuracy of the network on the train images: 97 %
+Epoch:35,Minibatch:201,loss:0.0389
+Accuracy of the network on the train images: 97 %
+Epoch:35,Minibatch:301,loss:0.0153
+Accuracy of the network on the train images: 97 %
+Epoch:35,Minibatch:401,loss:0.0311
+Accuracy of the network on the train images: 97 %
+Epoch:35,Minibatch:501,loss:0.1053
+Accuracy of the network on the train images: 97 %
+Epoch:35,Minibatch:601,loss:0.0713
+Accuracy of the network on the train images: 97 %
+Epoch:35,Minibatch:701,loss:0.0023
+Accuracy of the network on the train images: 97 %
+Epoch:35,Minibatch:801,loss:0.0046
+Accuracy of the network on the train images: 97 %
+Epoch:35,Minibatch:901,loss:0.1594
+Accuracy of the network on the train images: 97 %
+Epoch:35,Minibatch:1001,loss:0.0284
+Accuracy of the network on the train images: 97 %
+Epoch:35,Minibatch:1101,loss:0.1520
+Accuracy of the network on the train images: 97 %
+Epoch:35,Minibatch:1201,loss:0.0013
+Accuracy of the network on the train images: 97 %
+Epoch:35,Minibatch:1301,loss:0.0392
+Accuracy of the network on the train images: 97 %
+Epoch:35,Minibatch:1401,loss:0.0572
+Accuracy of the network on the train images: 97 %
+Epoch:35,Minibatch:1501,loss:0.1112
+Accuracy of the network on the train images: 97 %
+Compressing...
+Epoch:36,Minibatch:1,loss:0.0686
+Accuracy of the network on the train images: 96 %
+Epoch:36,Minibatch:101,loss:0.0152
+Accuracy of the network on the train images: 97 %
+Epoch:36,Minibatch:201,loss:0.0628
+Accuracy of the network on the train images: 97 %
+Epoch:36,Minibatch:301,loss:0.0015
+Accuracy of the network on the train images: 97 %
+Epoch:36,Minibatch:401,loss:0.0261
+Accuracy of the network on the train images: 97 %
+Epoch:36,Minibatch:501,loss:0.0963
+Accuracy of the network on the train images: 97 %
+Epoch:36,Minibatch:601,loss:0.0789
+Accuracy of the network on the train images: 97 %
+Epoch:36,Minibatch:701,loss:0.1642
+Accuracy of the network on the train images: 97 %
+Epoch:36,Minibatch:801,loss:0.0819
+Accuracy of the network on the train images: 97 %
+Epoch:36,Minibatch:901,loss:0.1158
+Accuracy of the network on the train images: 97 %
+Epoch:36,Minibatch:1001,loss:0.0357
+Accuracy of the network on the train images: 97 %
+Epoch:36,Minibatch:1101,loss:0.0443
+Accuracy of the network on the train images: 97 %
+Epoch:36,Minibatch:1201,loss:0.0266
+Accuracy of the network on the train images: 97 %
+Epoch:36,Minibatch:1301,loss:0.1936
+Accuracy of the network on the train images: 97 %
+Epoch:36,Minibatch:1401,loss:0.0248
+Accuracy of the network on the train images: 97 %
+Epoch:36,Minibatch:1501,loss:0.0278
+Accuracy of the network on the train images: 97 %
+Compressing...
+Epoch:37,Minibatch:1,loss:0.2010
+Accuracy of the network on the train images: 96 %
+Epoch:37,Minibatch:101,loss:0.1256
+Accuracy of the network on the train images: 97 %
+Epoch:37,Minibatch:201,loss:0.0348
+Accuracy of the network on the train images: 97 %
+Epoch:37,Minibatch:301,loss:0.0247
+Accuracy of the network on the train images: 97 %
+Epoch:37,Minibatch:401,loss:0.1901
+Accuracy of the network on the train images: 97 %
+Epoch:37,Minibatch:501,loss:0.0268
+Accuracy of the network on the train images: 97 %
+Epoch:37,Minibatch:601,loss:0.0280
+Accuracy of the network on the train images: 97 %
+Epoch:37,Minibatch:701,loss:0.0160
+Accuracy of the network on the train images: 97 %
+Epoch:37,Minibatch:801,loss:0.1890
+Accuracy of the network on the train images: 97 %
+Epoch:37,Minibatch:901,loss:0.0541
+Accuracy of the network on the train images: 97 %
+Epoch:37,Minibatch:1001,loss:0.2408
+Accuracy of the network on the train images: 97 %
+Epoch:37,Minibatch:1101,loss:0.0143
+Accuracy of the network on the train images: 97 %
+Epoch:37,Minibatch:1201,loss:0.0979
+Accuracy of the network on the train images: 97 %
+Epoch:37,Minibatch:1301,loss:0.0562
+Accuracy of the network on the train images: 97 %
+Epoch:37,Minibatch:1401,loss:0.0695
+Accuracy of the network on the train images: 97 %
+Epoch:37,Minibatch:1501,loss:0.0179
+Accuracy of the network on the train images: 97 %
+Compressing...
+Epoch:38,Minibatch:1,loss:0.0051
+Accuracy of the network on the train images: 100 %
+Epoch:38,Minibatch:101,loss:0.0489
+Accuracy of the network on the train images: 97 %
+Epoch:38,Minibatch:201,loss:0.3348
+Accuracy of the network on the train images: 97 %
+Epoch:38,Minibatch:301,loss:0.1162
+Accuracy of the network on the train images: 97 %
+Epoch:38,Minibatch:401,loss:0.0104
+Accuracy of the network on the train images: 97 %
+Epoch:38,Minibatch:501,loss:0.1269
+Accuracy of the network on the train images: 97 %
+Epoch:38,Minibatch:601,loss:0.0994
+Accuracy of the network on the train images: 97 %
+Epoch:38,Minibatch:701,loss:0.0346
+Accuracy of the network on the train images: 97 %
+Epoch:38,Minibatch:801,loss:0.0498
+Accuracy of the network on the train images: 97 %
+Epoch:38,Minibatch:901,loss:0.1276
+Accuracy of the network on the train images: 97 %
+Epoch:38,Minibatch:1001,loss:0.0172
+Accuracy of the network on the train images: 97 %
+Epoch:38,Minibatch:1101,loss:0.0434
+Accuracy of the network on the train images: 97 %
+Epoch:38,Minibatch:1201,loss:0.0247
+Accuracy of the network on the train images: 97 %
+Epoch:38,Minibatch:1301,loss:0.0914
+Accuracy of the network on the train images: 97 %
+Epoch:38,Minibatch:1401,loss:0.1152
+Accuracy of the network on the train images: 97 %
+Epoch:38,Minibatch:1501,loss:0.0438
+Accuracy of the network on the train images: 97 %
+Compressing...
+Epoch:39,Minibatch:1,loss:0.0188
+Accuracy of the network on the train images: 100 %
+Epoch:39,Minibatch:101,loss:0.0554
+Accuracy of the network on the train images: 97 %
+Epoch:39,Minibatch:201,loss:0.1504
+Accuracy of the network on the train images: 98 %
+Epoch:39,Minibatch:301,loss:0.0331
+Accuracy of the network on the train images: 98 %
+Epoch:39,Minibatch:401,loss:0.1268
+Accuracy of the network on the train images: 98 %
+Epoch:39,Minibatch:501,loss:0.0084
+Accuracy of the network on the train images: 98 %
+Epoch:39,Minibatch:601,loss:0.0124
+Accuracy of the network on the train images: 98 %
+Epoch:39,Minibatch:701,loss:0.0077
+Accuracy of the network on the train images: 98 %
+Epoch:39,Minibatch:801,loss:0.0696
+Accuracy of the network on the train images: 98 %
+Epoch:39,Minibatch:901,loss:0.0497
+Accuracy of the network on the train images: 97 %
+Epoch:39,Minibatch:1001,loss:0.0788
+Accuracy of the network on the train images: 97 %
+Epoch:39,Minibatch:1101,loss:0.0535
+Accuracy of the network on the train images: 97 %
+Epoch:39,Minibatch:1201,loss:0.0703
+Accuracy of the network on the train images: 97 %
+Epoch:39,Minibatch:1301,loss:0.0338
+Accuracy of the network on the train images: 97 %
+Epoch:39,Minibatch:1401,loss:0.0286
+Accuracy of the network on the train images: 97 %
+Epoch:39,Minibatch:1501,loss:0.1817
+Accuracy of the network on the train images: 97 %
+Compressing...
+Epoch:40,Minibatch:1,loss:0.0329
+Accuracy of the network on the train images: 96 %
+Epoch:40,Minibatch:101,loss:0.0236
+Accuracy of the network on the train images: 97 %
+Epoch:40,Minibatch:201,loss:0.1006
+Accuracy of the network on the train images: 98 %
+Epoch:40,Minibatch:301,loss:0.0808
+Accuracy of the network on the train images: 97 %
+Epoch:40,Minibatch:401,loss:0.0809
+Accuracy of the network on the train images: 97 %
+Epoch:40,Minibatch:501,loss:0.0063
+Accuracy of the network on the train images: 97 %
+Epoch:40,Minibatch:601,loss:0.0737
+Accuracy of the network on the train images: 97 %
+Epoch:40,Minibatch:701,loss:0.0954
+Accuracy of the network on the train images: 97 %
+Epoch:40,Minibatch:801,loss:0.1163
+Accuracy of the network on the train images: 97 %
+Epoch:40,Minibatch:901,loss:0.0434
+Accuracy of the network on the train images: 97 %
+Epoch:40,Minibatch:1001,loss:0.2142
+Accuracy of the network on the train images: 97 %
+Epoch:40,Minibatch:1101,loss:0.0296
+Accuracy of the network on the train images: 97 %
+Epoch:40,Minibatch:1201,loss:0.1279
+Accuracy of the network on the train images: 97 %
+Epoch:40,Minibatch:1301,loss:0.0115
+Accuracy of the network on the train images: 97 %
+Epoch:40,Minibatch:1401,loss:0.0566
+Accuracy of the network on the train images: 97 %
+Epoch:40,Minibatch:1501,loss:0.0369
+Accuracy of the network on the train images: 97 %
+Compressing...
+Epoch:41,Minibatch:1,loss:0.0360
+Accuracy of the network on the train images: 96 %
+Epoch:41,Minibatch:101,loss:0.0621
+Accuracy of the network on the train images: 97 %
+Epoch:41,Minibatch:201,loss:0.0260
+Accuracy of the network on the train images: 97 %
+Epoch:41,Minibatch:301,loss:0.0024
+Accuracy of the network on the train images: 98 %
+Epoch:41,Minibatch:401,loss:0.0071
+Accuracy of the network on the train images: 98 %
+Epoch:41,Minibatch:501,loss:0.0367
+Accuracy of the network on the train images: 98 %
+Epoch:41,Minibatch:601,loss:0.0306
+Accuracy of the network on the train images: 98 %
+Epoch:41,Minibatch:701,loss:0.0641
+Accuracy of the network on the train images: 98 %
+Epoch:41,Minibatch:801,loss:0.0525
+Accuracy of the network on the train images: 97 %
+Epoch:41,Minibatch:901,loss:0.0193
+Accuracy of the network on the train images: 98 %
+Epoch:41,Minibatch:1001,loss:0.1240
+Accuracy of the network on the train images: 98 %
+Epoch:41,Minibatch:1101,loss:0.0384
+Accuracy of the network on the train images: 97 %
+Epoch:41,Minibatch:1201,loss:0.0236
+Accuracy of the network on the train images: 97 %
+Epoch:41,Minibatch:1301,loss:0.0970
+Accuracy of the network on the train images: 97 %
+Epoch:41,Minibatch:1401,loss:0.0133
+Accuracy of the network on the train images: 97 %
+Epoch:41,Minibatch:1501,loss:0.0129
+Accuracy of the network on the train images: 97 %
+Compressing...
+Epoch:42,Minibatch:1,loss:0.0112
+Accuracy of the network on the train images: 100 %
+Epoch:42,Minibatch:101,loss:0.0028
+Accuracy of the network on the train images: 98 %
+Epoch:42,Minibatch:201,loss:0.0106
+Accuracy of the network on the train images: 98 %
+Epoch:42,Minibatch:301,loss:0.0563
+Accuracy of the network on the train images: 98 %
+Epoch:42,Minibatch:401,loss:0.0401
+Accuracy of the network on the train images: 98 %
+Epoch:42,Minibatch:501,loss:0.0153
+Accuracy of the network on the train images: 98 %
+Epoch:42,Minibatch:601,loss:0.0122
+Accuracy of the network on the train images: 98 %
+Epoch:42,Minibatch:701,loss:0.1548
+Accuracy of the network on the train images: 98 %
+Epoch:42,Minibatch:801,loss:0.0051
+Accuracy of the network on the train images: 98 %
+Epoch:42,Minibatch:901,loss:0.0072
+Accuracy of the network on the train images: 97 %
+Epoch:42,Minibatch:1001,loss:0.0212
+Accuracy of the network on the train images: 97 %
+Epoch:42,Minibatch:1101,loss:0.0257
+Accuracy of the network on the train images: 97 %
+Epoch:42,Minibatch:1201,loss:0.1343
+Accuracy of the network on the train images: 97 %
+Epoch:42,Minibatch:1301,loss:0.0068
+Accuracy of the network on the train images: 97 %
+Epoch:42,Minibatch:1401,loss:0.0079
+Accuracy of the network on the train images: 97 %
+Epoch:42,Minibatch:1501,loss:0.1162
+Accuracy of the network on the train images: 97 %
+Compressing...
+Epoch:43,Minibatch:1,loss:0.0032
+Accuracy of the network on the train images: 100 %
+Epoch:43,Minibatch:101,loss:0.1947
+Accuracy of the network on the train images: 98 %
+Epoch:43,Minibatch:201,loss:0.0136
+Accuracy of the network on the train images: 98 %
+Epoch:43,Minibatch:301,loss:0.0287
+Accuracy of the network on the train images: 98 %
+Epoch:43,Minibatch:401,loss:0.0076
+Accuracy of the network on the train images: 98 %
+Epoch:43,Minibatch:501,loss:0.0677
+Accuracy of the network on the train images: 98 %
+Epoch:43,Minibatch:601,loss:0.0298
+Accuracy of the network on the train images: 98 %
+Epoch:43,Minibatch:701,loss:0.0211
+Accuracy of the network on the train images: 98 %
+Epoch:43,Minibatch:801,loss:0.0074
+Accuracy of the network on the train images: 97 %
+Epoch:43,Minibatch:901,loss:0.0422
+Accuracy of the network on the train images: 97 %
+Epoch:43,Minibatch:1001,loss:0.0183
+Accuracy of the network on the train images: 98 %
+Epoch:43,Minibatch:1101,loss:0.0891
+Accuracy of the network on the train images: 98 %
+Epoch:43,Minibatch:1201,loss:0.1216
+Accuracy of the network on the train images: 97 %
+Epoch:43,Minibatch:1301,loss:0.0164
+Accuracy of the network on the train images: 97 %
+Epoch:43,Minibatch:1401,loss:0.0700
+Accuracy of the network on the train images: 97 %
+Epoch:43,Minibatch:1501,loss:0.0381
+Accuracy of the network on the train images: 97 %
+Compressing...
+Epoch:44,Minibatch:1,loss:0.1393
+Accuracy of the network on the train images: 93 %
+Epoch:44,Minibatch:101,loss:0.0100
+Accuracy of the network on the train images: 98 %
+Epoch:44,Minibatch:201,loss:0.1010
+Accuracy of the network on the train images: 98 %
+Epoch:44,Minibatch:301,loss:0.1588
+Accuracy of the network on the train images: 98 %
+Epoch:44,Minibatch:401,loss:0.0089
+Accuracy of the network on the train images: 98 %
+Epoch:44,Minibatch:501,loss:0.0074
+Accuracy of the network on the train images: 98 %
+Epoch:44,Minibatch:601,loss:0.2498
+Accuracy of the network on the train images: 98 %
+Epoch:44,Minibatch:701,loss:0.0150
+Accuracy of the network on the train images: 98 %
+Epoch:44,Minibatch:801,loss:0.0081
+Accuracy of the network on the train images: 98 %
+Epoch:44,Minibatch:901,loss:0.0851
+Accuracy of the network on the train images: 98 %
+Epoch:44,Minibatch:1001,loss:0.0724
+Accuracy of the network on the train images: 98 %
+Epoch:44,Minibatch:1101,loss:0.0854
+Accuracy of the network on the train images: 98 %
+Epoch:44,Minibatch:1201,loss:0.0719
+Accuracy of the network on the train images: 98 %
+Epoch:44,Minibatch:1301,loss:0.0547
+Accuracy of the network on the train images: 98 %
+Epoch:44,Minibatch:1401,loss:0.1890
+Accuracy of the network on the train images: 98 %
+Epoch:44,Minibatch:1501,loss:0.0630
+Accuracy of the network on the train images: 98 %
+Compressing...
+Epoch:45,Minibatch:1,loss:0.0772
+Accuracy of the network on the train images: 93 %
+Epoch:45,Minibatch:101,loss:0.0812
+Accuracy of the network on the train images: 98 %
+Epoch:45,Minibatch:201,loss:0.0039
+Accuracy of the network on the train images: 98 %
+Epoch:45,Minibatch:301,loss:0.0114
+Accuracy of the network on the train images: 98 %
+Epoch:45,Minibatch:401,loss:0.0101
+Accuracy of the network on the train images: 98 %
+Epoch:45,Minibatch:501,loss:0.0219
+Accuracy of the network on the train images: 98 %
+Epoch:45,Minibatch:601,loss:0.0136
+Accuracy of the network on the train images: 98 %
+Epoch:45,Minibatch:701,loss:0.0004
+Accuracy of the network on the train images: 98 %
+Epoch:45,Minibatch:801,loss:0.0647
+Accuracy of the network on the train images: 98 %
+Epoch:45,Minibatch:901,loss:0.0153
+Accuracy of the network on the train images: 98 %
+Epoch:45,Minibatch:1001,loss:0.1359
+Accuracy of the network on the train images: 98 %
+Epoch:45,Minibatch:1101,loss:0.0888
+Accuracy of the network on the train images: 98 %
+Epoch:45,Minibatch:1201,loss:0.0250
+Accuracy of the network on the train images: 98 %
+Epoch:45,Minibatch:1301,loss:0.0087
+Accuracy of the network on the train images: 98 %
+Epoch:45,Minibatch:1401,loss:0.0287
+Accuracy of the network on the train images: 98 %
+Epoch:45,Minibatch:1501,loss:0.0057
+Accuracy of the network on the train images: 98 %
+Compressing...
+Epoch:46,Minibatch:1,loss:0.0316
+Accuracy of the network on the train images: 100 %
+Epoch:46,Minibatch:101,loss:0.1160
+Accuracy of the network on the train images: 98 %
+Epoch:46,Minibatch:201,loss:0.0015
+Accuracy of the network on the train images: 98 %
+Epoch:46,Minibatch:301,loss:0.0126
+Accuracy of the network on the train images: 98 %
+Epoch:46,Minibatch:401,loss:0.0029
+Accuracy of the network on the train images: 98 %
+Epoch:46,Minibatch:501,loss:0.0365
+Accuracy of the network on the train images: 98 %
+Epoch:46,Minibatch:601,loss:0.0075
+Accuracy of the network on the train images: 98 %
+Epoch:46,Minibatch:701,loss:0.0055
+Accuracy of the network on the train images: 98 %
+Epoch:46,Minibatch:801,loss:0.2934
+Accuracy of the network on the train images: 98 %
+Epoch:46,Minibatch:901,loss:0.0036
+Accuracy of the network on the train images: 98 %
+Epoch:46,Minibatch:1001,loss:0.0058
+Accuracy of the network on the train images: 98 %
+Epoch:46,Minibatch:1101,loss:0.0194
+Accuracy of the network on the train images: 98 %
+Epoch:46,Minibatch:1201,loss:0.0082
+Accuracy of the network on the train images: 98 %
+Epoch:46,Minibatch:1301,loss:0.0228
+Accuracy of the network on the train images: 98 %
+Epoch:46,Minibatch:1401,loss:0.0072
+Accuracy of the network on the train images: 98 %
+Epoch:46,Minibatch:1501,loss:0.0422
+Accuracy of the network on the train images: 98 %
+Compressing...
+Epoch:47,Minibatch:1,loss:0.0730
+Accuracy of the network on the train images: 96 %
+Epoch:47,Minibatch:101,loss:0.0035
+Accuracy of the network on the train images: 97 %
+Epoch:47,Minibatch:201,loss:0.1202
+Accuracy of the network on the train images: 98 %
+Epoch:47,Minibatch:301,loss:0.1145
+Accuracy of the network on the train images: 98 %
+Epoch:47,Minibatch:401,loss:0.0071
+Accuracy of the network on the train images: 98 %
+Epoch:47,Minibatch:501,loss:0.0140
+Accuracy of the network on the train images: 98 %
+Epoch:47,Minibatch:601,loss:0.0105
+Accuracy of the network on the train images: 98 %
+Epoch:47,Minibatch:701,loss:0.0151
+Accuracy of the network on the train images: 98 %
+Epoch:47,Minibatch:801,loss:0.0856
+Accuracy of the network on the train images: 98 %
+Epoch:47,Minibatch:901,loss:0.0332
+Accuracy of the network on the train images: 98 %
+Epoch:47,Minibatch:1001,loss:0.0080
+Accuracy of the network on the train images: 98 %
+Epoch:47,Minibatch:1101,loss:0.0634
+Accuracy of the network on the train images: 98 %
+Epoch:47,Minibatch:1201,loss:0.2345
+Accuracy of the network on the train images: 98 %
+Epoch:47,Minibatch:1301,loss:0.1182
+Accuracy of the network on the train images: 98 %
+Epoch:47,Minibatch:1401,loss:0.1226
+Accuracy of the network on the train images: 98 %
+Epoch:47,Minibatch:1501,loss:0.0577
+Accuracy of the network on the train images: 98 %
+Compressing...
+Epoch:48,Minibatch:1,loss:0.0255
+Accuracy of the network on the train images: 100 %
+Epoch:48,Minibatch:101,loss:0.0018
+Accuracy of the network on the train images: 99 %
+Epoch:48,Minibatch:201,loss:0.0350
+Accuracy of the network on the train images: 99 %
+Epoch:48,Minibatch:301,loss:0.0230
+Accuracy of the network on the train images: 98 %
+Epoch:48,Minibatch:401,loss:0.0024
+Accuracy of the network on the train images: 98 %
+Epoch:48,Minibatch:501,loss:0.0138
+Accuracy of the network on the train images: 98 %
+Epoch:48,Minibatch:601,loss:0.1220
+Accuracy of the network on the train images: 98 %
+Epoch:48,Minibatch:701,loss:0.0201
+Accuracy of the network on the train images: 98 %
+Epoch:48,Minibatch:801,loss:0.0267
+Accuracy of the network on the train images: 98 %
+Epoch:48,Minibatch:901,loss:0.0036
+Accuracy of the network on the train images: 98 %
+Epoch:48,Minibatch:1001,loss:0.0160
+Accuracy of the network on the train images: 98 %
+Epoch:48,Minibatch:1101,loss:0.0505
+Accuracy of the network on the train images: 98 %
+Epoch:48,Minibatch:1201,loss:0.0197
+Accuracy of the network on the train images: 98 %
+Epoch:48,Minibatch:1301,loss:0.0533
+Accuracy of the network on the train images: 98 %
+Epoch:48,Minibatch:1401,loss:0.0200
+Accuracy of the network on the train images: 98 %
+Epoch:48,Minibatch:1501,loss:0.0146
+Accuracy of the network on the train images: 98 %
+Compressing...
+Epoch:49,Minibatch:1,loss:0.0056
+Accuracy of the network on the train images: 100 %
+Epoch:49,Minibatch:101,loss:0.2177
+Accuracy of the network on the train images: 98 %
+Epoch:49,Minibatch:201,loss:0.0096
+Accuracy of the network on the train images: 98 %
+Epoch:49,Minibatch:301,loss:0.0800
+Accuracy of the network on the train images: 98 %
+Epoch:49,Minibatch:401,loss:0.0135
+Accuracy of the network on the train images: 98 %
+Epoch:49,Minibatch:501,loss:0.0507
+Accuracy of the network on the train images: 98 %
+Epoch:49,Minibatch:601,loss:0.0595
+Accuracy of the network on the train images: 98 %
+Epoch:49,Minibatch:701,loss:0.0065
+Accuracy of the network on the train images: 98 %
+Epoch:49,Minibatch:801,loss:0.0321
+Accuracy of the network on the train images: 98 %
+Epoch:49,Minibatch:901,loss:0.1371
+Accuracy of the network on the train images: 98 %
+Epoch:49,Minibatch:1001,loss:0.1189
+Accuracy of the network on the train images: 98 %
+Epoch:49,Minibatch:1101,loss:0.0022
+Accuracy of the network on the train images: 98 %
+Epoch:49,Minibatch:1201,loss:0.0016
+Accuracy of the network on the train images: 98 %
+Epoch:49,Minibatch:1301,loss:0.0142
+Accuracy of the network on the train images: 98 %
+Epoch:49,Minibatch:1401,loss:0.2373
+Accuracy of the network on the train images: 98 %
+Epoch:49,Minibatch:1501,loss:0.0098
+Accuracy of the network on the train images: 98 %
+Compressing...
+Epoch:50,Minibatch:1,loss:0.0066
+Accuracy of the network on the train images: 100 %
+Epoch:50,Minibatch:101,loss:0.0144
+Accuracy of the network on the train images: 98 %
+Epoch:50,Minibatch:201,loss:0.0044
+Accuracy of the network on the train images: 98 %
+Epoch:50,Minibatch:301,loss:0.0308
+Accuracy of the network on the train images: 98 %
+Epoch:50,Minibatch:401,loss:0.0037
+Accuracy of the network on the train images: 98 %
+Epoch:50,Minibatch:501,loss:0.0259
+Accuracy of the network on the train images: 98 %
+Epoch:50,Minibatch:601,loss:0.0357
+Accuracy of the network on the train images: 98 %
+Epoch:50,Minibatch:701,loss:0.1450
+Accuracy of the network on the train images: 98 %
+Epoch:50,Minibatch:801,loss:0.0577
+Accuracy of the network on the train images: 98 %
+Epoch:50,Minibatch:901,loss:0.0164
+Accuracy of the network on the train images: 98 %
+Epoch:50,Minibatch:1001,loss:0.0156
+Accuracy of the network on the train images: 98 %
+Epoch:50,Minibatch:1101,loss:0.0516
+Accuracy of the network on the train images: 98 %
+Epoch:50,Minibatch:1201,loss:0.0255
+Accuracy of the network on the train images: 98 %
+Epoch:50,Minibatch:1301,loss:0.0206
+Accuracy of the network on the train images: 98 %
+Epoch:50,Minibatch:1401,loss:0.0544
+Accuracy of the network on the train images: 98 %
+Epoch:50,Minibatch:1501,loss:0.0288
+Accuracy of the network on the train images: 98 %
+Compressing...
+Train Finished!!!
+Test Minibatch:1,loss:0.1335
+Accuracy of the network on the test images: 96 %
+Test Minibatch:101,loss:0.6483
+Accuracy of the network on the test images: 88 %
+Test Minibatch:201,loss:0.2105
+Accuracy of the network on the test images: 88 %
+Test Minibatch:301,loss:0.2852
+Accuracy of the network on the test images: 89 %
+Finished!!!
+1.8234154081344605 21.97567783355713
+Files already downloaded and verified
+Files already downloaded and verified
+开始训练! shufflenet-v2! 冲!
+--------第0轮训练开始---------
+[训练次数:100] Loss: 309.326
+[训练次数:200] Loss: 532.517
+[训练次数:300] Loss: 741.853
+[训练次数:400] Loss: 945.184
+[训练次数:500] Loss: 1140.917
+[训练次数:600] Loss: 1332.523
+[训练次数:700] Loss: 1520.713
+[训练次数:800] Loss: 1706.023
+[训练次数:900] Loss: 1889.341
+[训练次数:1000] Loss: 2070.537
+[训练次数:1100] Loss: 2251.656
+[训练次数:1200] Loss: 2429.583
+[训练次数:1300] Loss: 2601.983
+[训练次数:1400] Loss: 2772.142
+[训练次数:1500] Loss: 2942.897
+开始测试!
+测试集上的loss：508.4093244075775
+测试分类准确率为：39.4
+--------第1轮训练开始---------
+[训练次数:1600] Loss: 60.693
+[训练次数:1700] Loss: 228.122
+[训练次数:1800] Loss: 395.574
+[训练次数:1900] Loss: 564.861
+[训练次数:2000] Loss: 733.929
+[训练次数:2100] Loss: 897.848
+[训练次数:2200] Loss: 1060.365
+[训练次数:2300] Loss: 1222.530
+[训练次数:2400] Loss: 1382.574
+[训练次数:2500] Loss: 1540.641
+[训练次数:2600] Loss: 1697.861
+[训练次数:2700] Loss: 1855.827
+[训练次数:2800] Loss: 2015.751
+[训练次数:2900] Loss: 2174.187
+[训练次数:3000] Loss: 2328.095
+[训练次数:3100] Loss: 2484.073
+Compressing...
+开始测试!
+测试集上的loss：443.39490365982056
+测试分类准确率为：47.87
+--------第2轮训练开始---------
+[训练次数:3200] Loss: 113.274
+[训练次数:3300] Loss: 265.088
+[训练次数:3400] Loss: 412.460
+[训练次数:3500] Loss: 569.825
+[训练次数:3600] Loss: 721.134
+[训练次数:3700] Loss: 872.709
+[训练次数:3800] Loss: 1022.264
+[训练次数:3900] Loss: 1170.538
+[训练次数:4000] Loss: 1319.936
+[训练次数:4100] Loss: 1468.622
+[训练次数:4200] Loss: 1616.572
+[训练次数:4300] Loss: 1762.988
+[训练次数:4400] Loss: 1909.073
+[训练次数:4500] Loss: 2055.550
+[训练次数:4600] Loss: 2203.719
+Compressing...
+开始测试!
+测试集上的loss：415.1124432682991
+测试分类准确率为：50.93
+--------第3轮训练开始---------
+[训练次数:4700] Loss: 16.253
+[训练次数:4800] Loss: 158.789
+[训练次数:4900] Loss: 302.126
+[训练次数:5000] Loss: 444.937
+[训练次数:5100] Loss: 586.469
+[训练次数:5200] Loss: 726.507
+[训练次数:5300] Loss: 866.239
+[训练次数:5400] Loss: 1008.126
+[训练次数:5500] Loss: 1145.052
+[训练次数:5600] Loss: 1285.884
+[训练次数:5700] Loss: 1422.935
+[训练次数:5800] Loss: 1562.542
+[训练次数:5900] Loss: 1702.808
+[训练次数:6000] Loss: 1844.648
+[训练次数:6100] Loss: 1985.592
+[训练次数:6200] Loss: 2121.846
+Compressing...
+开始测试!
+测试集上的loss：386.9493255019188
+测试分类准确率为：55.38
+--------第4轮训练开始---------
+[训练次数:6300] Loss: 64.173
+[训练次数:6400] Loss: 199.628
+[训练次数:6500] Loss: 334.164
+[训练次数:6600] Loss: 469.104
+[训练次数:6700] Loss: 604.272
+[训练次数:6800] Loss: 738.719
+[训练次数:6900] Loss: 875.934
+[训练次数:7000] Loss: 1009.066
+[训练次数:7100] Loss: 1140.184
+[训练次数:7200] Loss: 1274.614
+[训练次数:7300] Loss: 1406.873
+[训练次数:7400] Loss: 1539.691
+[训练次数:7500] Loss: 1671.285
+[训练次数:7600] Loss: 1800.540
+[训练次数:7700] Loss: 1933.996
+[训练次数:7800] Loss: 2065.594
+Compressing...
+开始测试!
+测试集上的loss：366.88537299633026
+测试分类准确率为：57.96
+--------第5轮训练开始---------
+[训练次数:7900] Loss: 111.405
+[训练次数:8000] Loss: 238.710
+[训练次数:8100] Loss: 367.858
+[训练次数:8200] Loss: 502.165
+[训练次数:8300] Loss: 632.054
+[训练次数:8400] Loss: 760.570
+[训练次数:8500] Loss: 889.617
+[训练次数:8600] Loss: 1017.633
+[训练次数:8700] Loss: 1145.447
+[训练次数:8800] Loss: 1274.243
+[训练次数:8900] Loss: 1402.464
+[训练次数:9000] Loss: 1528.956
+[训练次数:9100] Loss: 1656.188
+[训练次数:9200] Loss: 1785.202
+[训练次数:9300] Loss: 1910.571
+Compressing...
+开始测试!
+测试集上的loss：351.07420486211777
+测试分类准确率为：60.19
+--------第6轮训练开始---------
+[训练次数:9400] Loss: 26.548
+[训练次数:9500] Loss: 151.423
+[训练次数:9600] Loss: 275.028
+[训练次数:9700] Loss: 400.717
+[训练次数:9800] Loss: 523.908
+[训练次数:9900] Loss: 649.989
+[训练次数:10000] Loss: 772.001
+[训练次数:10100] Loss: 894.213
+[训练次数:10200] Loss: 1015.681
+[训练次数:10300] Loss: 1137.998
+[训练次数:10400] Loss: 1262.875
+[训练次数:10500] Loss: 1386.189
+[训练次数:10600] Loss: 1507.290
+[训练次数:10700] Loss: 1630.413
+[训练次数:10800] Loss: 1751.609
+[训练次数:10900] Loss: 1871.522
+Compressing...
+开始测试!
+测试集上的loss：337.667220056057
+测试分类准确率为：61.97
+--------第7轮训练开始---------
+[训练次数:11000] Loss: 68.480
+[训练次数:11100] Loss: 187.491
+[训练次数:11200] Loss: 309.521
+[训练次数:11300] Loss: 427.191
+[训练次数:11400] Loss: 546.424
+[训练次数:11500] Loss: 669.663
+[训练次数:11600] Loss: 788.709
+[训练次数:11700] Loss: 906.794
+[训练次数:11800] Loss: 1026.253
+[训练次数:11900] Loss: 1144.233
+[训练次数:12000] Loss: 1256.844
+[训练次数:12100] Loss: 1375.073
+[训练次数:12200] Loss: 1489.067
+[训练次数:12300] Loss: 1609.827
+[训练次数:12400] Loss: 1725.410
+[训练次数:12500] Loss: 1842.076
+Compressing...
+开始测试!
+测试集上的loss：333.7947219014168
+测试分类准确率为：62.28
+--------第8轮训练开始---------
+[训练次数:12600] Loss: 105.365
+[训练次数:12700] Loss: 220.411
+[训练次数:12800] Loss: 336.902
+[训练次数:12900] Loss: 450.088
+[训练次数:13000] Loss: 563.703
+[训练次数:13100] Loss: 676.628
+[训练次数:13200] Loss: 793.922
+[训练次数:13300] Loss: 907.475
+[训练次数:13400] Loss: 1024.403
+[训练次数:13500] Loss: 1138.054
+[训练次数:13600] Loss: 1251.755
+[训练次数:13700] Loss: 1362.326
+[训练次数:13800] Loss: 1475.348
+[训练次数:13900] Loss: 1590.911
+[训练次数:14000] Loss: 1703.274
+Compressing...
+开始测试!
+测试集上的loss：321.7775514125824
+测试分类准确率为：63.24
+--------第9轮训练开始---------
+[训练次数:14100] Loss: 36.300
+[训练次数:14200] Loss: 147.161
+[训练次数:14300] Loss: 259.022
+[训练次数:14400] Loss: 369.687
+[训练次数:14500] Loss: 477.505
+[训练次数:14600] Loss: 587.786
+[训练次数:14700] Loss: 699.357
+[训练次数:14800] Loss: 809.654
+[训练次数:14900] Loss: 919.316
+[训练次数:15000] Loss: 1026.572
+[训练次数:15100] Loss: 1135.562
+[训练次数:15200] Loss: 1247.001
+[训练次数:15300] Loss: 1357.954
+[训练次数:15400] Loss: 1470.011
+[训练次数:15500] Loss: 1577.316
+[训练次数:15600] Loss: 1688.456
+Compressing...
+开始测试!
+测试集上的loss：308.445968657732
+测试分类准确率为：65.55
+--------第10轮训练开始---------
+[训练次数:15700] Loss: 75.712
+[训练次数:15800] Loss: 182.968
+[训练次数:15900] Loss: 289.924
+[训练次数:16000] Loss: 394.712
+[训练次数:16100] Loss: 502.031
+[训练次数:16200] Loss: 607.947
+[训练次数:16300] Loss: 715.085
+[训练次数:16400] Loss: 819.166
+[训练次数:16500] Loss: 924.849
+[训练次数:16600] Loss: 1034.228
+[训练次数:16700] Loss: 1135.596
+[训练次数:16800] Loss: 1243.888
+[训练次数:16900] Loss: 1352.482
+[训练次数:17000] Loss: 1459.531
+[训练次数:17100] Loss: 1565.339
+Compressing...
+开始测试!
+测试集上的loss：304.3800420165062
+测试分类准确率为：65.49
+--------第11轮训练开始---------
+[训练次数:17200] Loss: 7.329
+[训练次数:17300] Loss: 113.356
+[训练次数:17400] Loss: 217.667
+[训练次数:17500] Loss: 320.184
+[训练次数:17600] Loss: 420.290
+[训练次数:17700] Loss: 524.592
+[训练次数:17800] Loss: 631.371
+[训练次数:17900] Loss: 738.133
+[训练次数:18000] Loss: 843.309
+[训练次数:18100] Loss: 951.524
+[训练次数:18200] Loss: 1055.393
+[训练次数:18300] Loss: 1157.161
+[训练次数:18400] Loss: 1260.670
+[训练次数:18500] Loss: 1360.275
+[训练次数:18600] Loss: 1464.007
+[训练次数:18700] Loss: 1565.032
+Compressing...
+开始测试!
+测试集上的loss：290.246279835701
+测试分类准确率为：67.09
+--------第12轮训练开始---------
+[训练次数:18800] Loss: 44.703
+[训练次数:18900] Loss: 146.790
+[训练次数:19000] Loss: 245.896
+[训练次数:19100] Loss: 347.510
+[训练次数:19200] Loss: 451.085
+[训练次数:19300] Loss: 555.333
+[训练次数:19400] Loss: 660.383
+[训练次数:19500] Loss: 758.528
+[训练次数:19600] Loss: 861.427
+[训练次数:19700] Loss: 962.664
+[训练次数:19800] Loss: 1061.775
+[训练次数:19900] Loss: 1163.241
+[训练次数:20000] Loss: 1261.313
+[训练次数:20100] Loss: 1360.314
+[训练次数:20200] Loss: 1458.561
+[训练次数:20300] Loss: 1555.885
+Compressing...
+开始测试!
+测试集上的loss：281.0405795574188
+测试分类准确率为：68.27
+--------第13轮训练开始---------
+[训练次数:20400] Loss: 80.112
+[训练次数:20500] Loss: 174.835
+[训练次数:20600] Loss: 272.683
+[训练次数:20700] Loss: 371.593
+[训练次数:20800] Loss: 471.652
+[训练次数:20900] Loss: 568.226
+[训练次数:21000] Loss: 666.674
+[训练次数:21100] Loss: 766.297
+[训练次数:21200] Loss: 862.386
+[训练次数:21300] Loss: 957.436
+[训练次数:21400] Loss: 1053.469
+[训练次数:21500] Loss: 1147.312
+[训练次数:21600] Loss: 1244.797
+[训练次数:21700] Loss: 1340.878
+[训练次数:21800] Loss: 1440.654
+Compressing...
+开始测试!
+测试集上的loss：269.6067783534527
+测试分类准确率为：69.84
+--------第14轮训练开始---------
+[训练次数:21900] Loss: 16.842
+[训练次数:22000] Loss: 111.394
+[训练次数:22100] Loss: 207.822
+[训练次数:22200] Loss: 305.266
+[训练次数:22300] Loss: 398.667
+[训练次数:22400] Loss: 490.045
+[训练次数:22500] Loss: 588.642
+[训练次数:22600] Loss: 689.380
+[训练次数:22700] Loss: 784.855
+[训练次数:22800] Loss: 879.800
+[训练次数:22900] Loss: 973.299
+[训练次数:23000] Loss: 1069.259
+[训练次数:23100] Loss: 1163.390
+[训练次数:23200] Loss: 1259.359
+[训练次数:23300] Loss: 1352.188
+[训练次数:23400] Loss: 1445.176
+Compressing...
+开始测试!
+测试集上的loss：274.67323952913284
+测试分类准确率为：69.28
+--------第15轮训练开始---------
+[训练次数:23500] Loss: 52.548
+[训练次数:23600] Loss: 145.338
+[训练次数:23700] Loss: 238.298
+[训练次数:23800] Loss: 330.570
+[训练次数:23900] Loss: 425.350
+[训练次数:24000] Loss: 520.708
+[训练次数:24100] Loss: 615.236
+[训练次数:24200] Loss: 710.136
+[训练次数:24300] Loss: 803.575
+[训练次数:24400] Loss: 898.652
+[训练次数:24500] Loss: 988.674
+[训练次数:24600] Loss: 1081.496
+[训练次数:24700] Loss: 1173.238
+[训练次数:24800] Loss: 1265.105
+[训练次数:24900] Loss: 1355.470
+[训练次数:25000] Loss: 1447.371
+Compressing...
+开始测试!
+测试集上的loss：263.3326165378094
+测试分类准确率为：70.8
+--------第16轮训练开始---------
+[训练次数:25100] Loss: 83.267
+[训练次数:25200] Loss: 170.151
+[训练次数:25300] Loss: 260.915
+[训练次数:25400] Loss: 354.140
+[训练次数:25500] Loss: 444.265
+[训练次数:25600] Loss: 536.570
+[训练次数:25700] Loss: 626.241
+[训练次数:25800] Loss: 716.576
+[训练次数:25900] Loss: 813.982
+[训练次数:26000] Loss: 905.555
+[训练次数:26100] Loss: 994.619
+[训练次数:26200] Loss: 1083.786
+[训练次数:26300] Loss: 1173.564
+[训练次数:26400] Loss: 1264.857
+[训练次数:26500] Loss: 1356.557
+Compressing...
+开始测试!
+测试集上的loss：257.7537055015564
+测试分类准确率为：71.52
+--------第17轮训练开始---------
+[训练次数:26600] Loss: 25.571
+[训练次数:26700] Loss: 110.717
+[训练次数:26800] Loss: 198.416
+[训练次数:26900] Loss: 289.752
+[训练次数:27000] Loss: 378.094
+[训练次数:27100] Loss: 468.769
+[训练次数:27200] Loss: 555.411
+[训练次数:27300] Loss: 643.052
+[训练次数:27400] Loss: 734.150
+[训练次数:27500] Loss: 825.867
+[训练次数:27600] Loss: 916.039
+[训练次数:27700] Loss: 1006.440
+[训练次数:27800] Loss: 1096.625
+[训练次数:27900] Loss: 1186.898
+[训练次数:28000] Loss: 1275.948
+[训练次数:28100] Loss: 1360.288
+Compressing...
+开始测试!
+测试集上的loss：254.67503249645233
+测试分类准确率为：71.51
+--------第18轮训练开始---------
+[训练次数:28200] Loss: 56.425
+[训练次数:28300] Loss: 144.192
+[训练次数:28400] Loss: 229.667
+[训练次数:28500] Loss: 317.628
+[训练次数:28600] Loss: 402.032
+[训练次数:28700] Loss: 490.103
+[训练次数:28800] Loss: 575.039
+[训练次数:28900] Loss: 664.331
+[训练次数:29000] Loss: 750.781
+[训练次数:29100] Loss: 839.357
+[训练次数:29200] Loss: 927.436
+[训练次数:29300] Loss: 1011.311
+[训练次数:29400] Loss: 1097.056
+[训练次数:29500] Loss: 1186.875
+[训练次数:29600] Loss: 1271.983
+Compressing...
+开始测试!
+测试集上的loss：252.3616874217987
+测试分类准确率为：71.93
+--------第19轮训练开始---------
+[训练次数:29700] Loss: 2.343
+[训练次数:29800] Loss: 88.665
+[训练次数:29900] Loss: 173.861
+[训练次数:30000] Loss: 261.024
+[训练次数:30100] Loss: 349.512
+[训练次数:30200] Loss: 433.952
+[训练次数:30300] Loss: 516.668
+[训练次数:30400] Loss: 602.453
+[训练次数:30500] Loss: 685.987
+[训练次数:30600] Loss: 769.473
+[训练次数:30700] Loss: 852.695
+[训练次数:30800] Loss: 936.957
+[训练次数:30900] Loss: 1022.276
+[训练次数:31000] Loss: 1106.426
+[训练次数:31100] Loss: 1193.609
+[训练次数:31200] Loss: 1275.706
+Compressing...
+开始测试!
+测试集上的loss：248.068762332201
+测试分类准确率为：71.99
+--------第20轮训练开始---------
+[训练次数:31300] Loss: 33.062
+[训练次数:31400] Loss: 116.000
+[训练次数:31500] Loss: 199.431
+[训练次数:31600] Loss: 281.885
+[训练次数:31700] Loss: 363.562
+[训练次数:31800] Loss: 446.933
+[训练次数:31900] Loss: 531.203
+[训练次数:32000] Loss: 613.257
+[训练次数:32100] Loss: 698.298
+[训练次数:32200] Loss: 782.065
+[训练次数:32300] Loss: 864.558
+[训练次数:32400] Loss: 951.857
+[训练次数:32500] Loss: 1034.403
+[训练次数:32600] Loss: 1119.426
+[训练次数:32700] Loss: 1204.850
+[训练次数:32800] Loss: 1289.712
+Compressing...
+开始测试!
+测试集上的loss：244.53980630636215
+测试分类准确率为：72.26
+--------第21轮训练开始---------
+[训练次数:32900] Loss: 60.276
+[训练次数:33000] Loss: 141.450
+[训练次数:33100] Loss: 226.172
+[训练次数:33200] Loss: 307.261
+[训练次数:33300] Loss: 390.781
+[训练次数:33400] Loss: 473.879
+[训练次数:33500] Loss: 554.575
+[训练次数:33600] Loss: 635.863
+[训练次数:33700] Loss: 716.719
+[训练次数:33800] Loss: 799.669
+[训练次数:33900] Loss: 877.061
+[训练次数:34000] Loss: 961.384
+[训练次数:34100] Loss: 1042.796
+[训练次数:34200] Loss: 1128.282
+[训练次数:34300] Loss: 1209.165
+Compressing...
+开始测试!
+测试集上的loss：247.95303091406822
+测试分类准确率为：72.44
+--------第22轮训练开始---------
+[训练次数:34400] Loss: 10.588
+[训练次数:34500] Loss: 90.740
+[训练次数:34600] Loss: 168.700
+[训练次数:34700] Loss: 250.633
+[训练次数:34800] Loss: 331.979
+[训练次数:34900] Loss: 413.663
+[训练次数:35000] Loss: 493.991
+[训练次数:35100] Loss: 574.334
+[训练次数:35200] Loss: 659.616
+[训练次数:35300] Loss: 740.225
+[训练次数:35400] Loss: 819.989
+[训练次数:35500] Loss: 898.478
+[训练次数:35600] Loss: 981.525
+[训练次数:35700] Loss: 1065.926
+[训练次数:35800] Loss: 1146.473
+[训练次数:35900] Loss: 1228.899
+Compressing...
+开始测试!
+测试集上的loss：242.28332489728928
+测试分类准确率为：72.91
+--------第23轮训练开始---------
+[训练次数:36000] Loss: 39.198
+[训练次数:36100] Loss: 116.836
+[训练次数:36200] Loss: 197.030
+[训练次数:36300] Loss: 277.718
+[训练次数:36400] Loss: 356.838
+[训练次数:36500] Loss: 438.548
+[训练次数:36600] Loss: 519.143
+[训练次数:36700] Loss: 595.472
+[训练次数:36800] Loss: 672.913
+[训练次数:36900] Loss: 751.146
+[训练次数:37000] Loss: 827.355
+[训练次数:37100] Loss: 907.138
+[训练次数:37200] Loss: 988.259
+[训练次数:37300] Loss: 1064.971
+[训练次数:37400] Loss: 1145.782
+[训练次数:37500] Loss: 1227.990
+Compressing...
+开始测试!
+测试集上的loss：238.52161169052124
+测试分类准确率为：73.19
+--------第24轮训练开始---------
+[训练次数:37600] Loss: 68.534
+[训练次数:37700] Loss: 146.898
+[训练次数:37800] Loss: 222.393
+[训练次数:37900] Loss: 300.743
+[训练次数:38000] Loss: 382.298
+[训练次数:38100] Loss: 462.689
+[训练次数:38200] Loss: 541.548
+[训练次数:38300] Loss: 622.946
+[训练次数:38400] Loss: 704.503
+[训练次数:38500] Loss: 782.500
+[训练次数:38600] Loss: 861.866
+[训练次数:38700] Loss: 939.491
+[训练次数:38800] Loss: 1015.665
+[训练次数:38900] Loss: 1096.639
+[训练次数:39000] Loss: 1175.572
+Compressing...
+开始测试!
+测试集上的loss：231.9528406560421
+测试分类准确率为：73.9
+--------第25轮训练开始---------
+[训练次数:39100] Loss: 18.225
+[训练次数:39200] Loss: 95.075
+[训练次数:39300] Loss: 171.302
+[训练次数:39400] Loss: 248.723
+[训练次数:39500] Loss: 328.234
+[训练次数:39600] Loss: 403.315
+[训练次数:39700] Loss: 478.626
+[训练次数:39800] Loss: 557.125
+[训练次数:39900] Loss: 630.819
+[训练次数:40000] Loss: 709.509
+[训练次数:40100] Loss: 784.869
+[训练次数:40200] Loss: 859.802
+[训练次数:40300] Loss: 937.320
+[训练次数:40400] Loss: 1015.794
+[训练次数:40500] Loss: 1095.627
+[训练次数:40600] Loss: 1170.389
+Compressing...
+开始测试!
+测试集上的loss：229.3337986767292
+测试分类准确率为：74.54
+--------第26轮训练开始---------
+[训练次数:40700] Loss: 46.935
+[训练次数:40800] Loss: 123.172
+[训练次数:40900] Loss: 201.691
+[训练次数:41000] Loss: 275.742
+[训练次数:41100] Loss: 347.763
+[训练次数:41200] Loss: 424.059
+[训练次数:41300] Loss: 499.861
+[训练次数:41400] Loss: 576.326
+[训练次数:41500] Loss: 651.960
+[训练次数:41600] Loss: 730.712
+[训练次数:41700] Loss: 805.343
+[训练次数:41800] Loss: 876.811
+[训练次数:41900] Loss: 953.016
+[训练次数:42000] Loss: 1029.453
+[训练次数:42100] Loss: 1103.333
+[训练次数:42200] Loss: 1180.893
+Compressing...
+开始测试!
+测试集上的loss：225.88654163479805
+测试分类准确率为：75.04
+--------第27轮训练开始---------
+[训练次数:42300] Loss: 72.155
+[训练次数:42400] Loss: 145.832
+[训练次数:42500] Loss: 220.300
+[训练次数:42600] Loss: 295.262
+[训练次数:42700] Loss: 367.468
+[训练次数:42800] Loss: 443.333
+[训练次数:42900] Loss: 516.001
+[训练次数:43000] Loss: 589.453
+[训练次数:43100] Loss: 663.800
+[训练次数:43200] Loss: 740.806
+[训练次数:43300] Loss: 818.304
+[训练次数:43400] Loss: 893.531
+[训练次数:43500] Loss: 967.366
+[训练次数:43600] Loss: 1041.290
+[训练次数:43700] Loss: 1114.447
+Compressing...
+开始测试!
+测试集上的loss：229.46128070354462
+测试分类准确率为：74.55
+--------第28轮训练开始---------
+[训练次数:43800] Loss: 26.406
+[训练次数:43900] Loss: 97.812
+[训练次数:44000] Loss: 170.250
+[训练次数:44100] Loss: 242.860
+[训练次数:44200] Loss: 317.100
+[训练次数:44300] Loss: 388.201
+[训练次数:44400] Loss: 464.601
+[训练次数:44500] Loss: 535.830
+[训练次数:44600] Loss: 610.926
+[训练次数:44700] Loss: 689.809
+[训练次数:44800] Loss: 762.854
+[训练次数:44900] Loss: 832.183
+[训练次数:45000] Loss: 908.619
+[训练次数:45100] Loss: 980.961
+[训练次数:45200] Loss: 1054.411
+[训练次数:45300] Loss: 1134.218
+Compressing...
+开始测试!
+测试集上的loss：227.8152230679989
+测试分类准确率为：75.16
+--------第29轮训练开始---------
+[训练次数:45400] Loss: 53.816
+[训练次数:45500] Loss: 124.646
+[训练次数:45600] Loss: 198.316
+[训练次数:45700] Loss: 270.832
+[训练次数:45800] Loss: 345.562
+[训练次数:45900] Loss: 422.263
+[训练次数:46000] Loss: 494.617
+[训练次数:46100] Loss: 566.923
+[训练次数:46200] Loss: 641.336
+[训练次数:46300] Loss: 713.138
+[训练次数:46400] Loss: 788.909
+[训练次数:46500] Loss: 861.518
+[训练次数:46600] Loss: 936.356
+[训练次数:46700] Loss: 1008.374
+[训练次数:46800] Loss: 1081.520
+Compressing...
+开始测试!
+测试集上的loss：220.2106218636036
+测试分类准确率为：75.34
+--------第30轮训练开始---------
+[训练次数:46900] Loss: 6.572
+[训练次数:47000] Loss: 79.183
+[训练次数:47100] Loss: 153.443
+[训练次数:47200] Loss: 221.878
+[训练次数:47300] Loss: 295.080
+[训练次数:47400] Loss: 366.261
+[训练次数:47500] Loss: 438.379
+[训练次数:47600] Loss: 508.807
+[训练次数:47700] Loss: 576.899
+[训练次数:47800] Loss: 647.233
+[训练次数:47900] Loss: 717.208
+[训练次数:48000] Loss: 788.575
+[训练次数:48100] Loss: 861.755
+[训练次数:48200] Loss: 935.947
+[训练次数:48300] Loss: 1008.872
+[训练次数:48400] Loss: 1083.185
+Compressing...
+开始测试!
+测试集上的loss：218.45782247185707
+测试分类准确率为：75.72
+--------第31轮训练开始---------
+[训练次数:48500] Loss: 34.164
+[训练次数:48600] Loss: 104.326
+[训练次数:48700] Loss: 176.214
+[训练次数:48800] Loss: 247.498
+[训练次数:48900] Loss: 316.667
+[训练次数:49000] Loss: 388.576
+[训练次数:49100] Loss: 461.913
+[训练次数:49200] Loss: 530.366
+[训练次数:49300] Loss: 599.955
+[训练次数:49400] Loss: 669.646
+[训练次数:49500] Loss: 740.277
+[训练次数:49600] Loss: 808.275
+[训练次数:49700] Loss: 881.069
+[训练次数:49800] Loss: 954.185
+[训练次数:49900] Loss: 1024.835
+[训练次数:50000] Loss: 1095.534
+Compressing...
+开始测试!
+测试集上的loss：213.12923623621464
+测试分类准确率为：76.25
+--------第32轮训练开始---------
+[训练次数:50100] Loss: 57.753
+[训练次数:50200] Loss: 127.863
+[训练次数:50300] Loss: 193.614
+[训练次数:50400] Loss: 262.107
+[训练次数:50500] Loss: 330.769
+[训练次数:50600] Loss: 400.616
+[训练次数:50700] Loss: 471.066
+[训练次数:50800] Loss: 541.541
+[训练次数:50900] Loss: 612.568
+[训练次数:51000] Loss: 684.512
+[训练次数:51100] Loss: 753.134
+[训练次数:51200] Loss: 822.744
+[训练次数:51300] Loss: 888.652
+[训练次数:51400] Loss: 958.903
+[训练次数:51500] Loss: 1030.313
+Compressing...
+开始测试!
+测试集上的loss：219.87901498377323
+测试分类准确率为：75.4
+--------第33轮训练开始---------
+[训练次数:51600] Loss: 13.555
+[训练次数:51700] Loss: 77.394
+[训练次数:51800] Loss: 145.588
+[训练次数:51900] Loss: 211.074
+[训练次数:52000] Loss: 277.232
+[训练次数:52100] Loss: 347.535
+[训练次数:52200] Loss: 418.282
+[训练次数:52300] Loss: 486.867
+[训练次数:52400] Loss: 557.567
+[训练次数:52500] Loss: 626.751
+[训练次数:52600] Loss: 694.541
+[训练次数:52700] Loss: 767.222
+[训练次数:52800] Loss: 835.191
+[训练次数:52900] Loss: 908.807
+[训练次数:53000] Loss: 977.821
+[训练次数:53100] Loss: 1048.035
+Compressing...
+开始测试!
+测试集上的loss：219.1701152920723
+测试分类准确率为：75.58
+--------第34轮训练开始---------
+[训练次数:53200] Loss: 37.134
+[训练次数:53300] Loss: 102.626
+[训练次数:53400] Loss: 169.187
+[训练次数:53500] Loss: 237.487
+[训练次数:53600] Loss: 304.813
+[训练次数:53700] Loss: 374.603
+[训练次数:53800] Loss: 445.938
+[训练次数:53900] Loss: 513.703
+[训练次数:54000] Loss: 581.912
+[训练次数:54100] Loss: 650.631
+[训练次数:54200] Loss: 716.379
+[训练次数:54300] Loss: 785.906
+[训练次数:54400] Loss: 854.815
+[训练次数:54500] Loss: 924.995
+[训练次数:54600] Loss: 992.318
+[训练次数:54700] Loss: 1058.344
+Compressing...
+开始测试!
+测试集上的loss：216.3071844279766
+测试分类准确率为：76.15
+--------第35轮训练开始---------
+[训练次数:54800] Loss: 63.320
+[训练次数:54900] Loss: 130.075
+[训练次数:55000] Loss: 199.959
+[训练次数:55100] Loss: 267.255
+[训练次数:55200] Loss: 333.950
+[训练次数:55300] Loss: 399.213
+[训练次数:55400] Loss: 467.212
+[训练次数:55500] Loss: 532.508
+[训练次数:55600] Loss: 603.438
+[训练次数:55700] Loss: 671.951
+[训练次数:55800] Loss: 738.620
+[训练次数:55900] Loss: 806.280
+[训练次数:56000] Loss: 873.752
+[训练次数:56100] Loss: 938.605
+[训练次数:56200] Loss: 1006.770
+Compressing...
+开始测试!
+测试集上的loss：210.71244776248932
+测试分类准确率为：76.68
+--------第36轮训练开始---------
+[训练次数:56300] Loss: 20.742
+[训练次数:56400] Loss: 87.394
+[训练次数:56500] Loss: 154.711
+[训练次数:56600] Loss: 219.933
+[训练次数:56700] Loss: 283.976
+[训练次数:56800] Loss: 353.617
+[训练次数:56900] Loss: 418.694
+[训练次数:57000] Loss: 484.143
+[训练次数:57100] Loss: 553.475
+[训练次数:57200] Loss: 622.341
+[训练次数:57300] Loss: 686.946
+[训练次数:57400] Loss: 750.771
+[训练次数:57500] Loss: 815.933
+[训练次数:57600] Loss: 882.373
+[训练次数:57700] Loss: 948.837
+[训练次数:57800] Loss: 1017.403
+Compressing...
+开始测试!
+测试集上的loss：213.9301210641861
+测试分类准确率为：76.71
+--------第37轮训练开始---------
+[训练次数:57900] Loss: 46.898
+[训练次数:58000] Loss: 113.807
+[训练次数:58100] Loss: 178.375
+[训练次数:58200] Loss: 245.787
+[训练次数:58300] Loss: 313.851
+[训练次数:58400] Loss: 379.773
+[训练次数:58500] Loss: 444.405
+[训练次数:58600] Loss: 509.448
+[训练次数:58700] Loss: 575.696
+[训练次数:58800] Loss: 643.031
+[训练次数:58900] Loss: 709.388
+[训练次数:59000] Loss: 776.979
+[训练次数:59100] Loss: 842.152
+[训练次数:59200] Loss: 909.828
+[训练次数:59300] Loss: 974.160
+Compressing...
+开始测试!
+测试集上的loss：212.35209795832634
+测试分类准确率为：76.73
+--------第38轮训练开始---------
+[训练次数:59400] Loss: 3.729
+[训练次数:59500] Loss: 67.443
+[训练次数:59600] Loss: 132.181
+[训练次数:59700] Loss: 197.374
+[训练次数:59800] Loss: 259.523
+[训练次数:59900] Loss: 323.270
+[训练次数:60000] Loss: 388.589
+[训练次数:60100] Loss: 455.989
+[训练次数:60200] Loss: 521.520
+[训练次数:60300] Loss: 586.570
+[训练次数:60400] Loss: 649.887
+[训练次数:60500] Loss: 714.935
+[训练次数:60600] Loss: 782.365
+[训练次数:60700] Loss: 850.702
+[训练次数:60800] Loss: 917.961
+[训练次数:60900] Loss: 982.880
+Compressing...
+开始测试!
+测试集上的loss：210.9810989946127
+测试分类准确率为：76.62
+--------第39轮训练开始---------
+[训练次数:61000] Loss: 26.941
+[训练次数:61100] Loss: 91.288
+[训练次数:61200] Loss: 154.393
+[训练次数:61300] Loss: 219.618
+[训练次数:61400] Loss: 284.369
+[训练次数:61500] Loss: 353.766
+[训练次数:61600] Loss: 419.212
+[训练次数:61700] Loss: 483.342
+[训练次数:61800] Loss: 548.367
+[训练次数:61900] Loss: 612.063
+[训练次数:62000] Loss: 677.018
+[训练次数:62100] Loss: 744.758
+[训练次数:62200] Loss: 811.793
+[训练次数:62300] Loss: 875.767
+[训练次数:62400] Loss: 944.371
+[训练次数:62500] Loss: 1004.285
+Compressing...
+开始测试!
+测试集上的loss：207.43033465743065
+测试分类准确率为：77.14
+--------第40轮训练开始---------
+[训练次数:62600] Loss: 48.442
+[训练次数:62700] Loss: 112.804
+[训练次数:62800] Loss: 179.517
+[训练次数:62900] Loss: 244.653
+[训练次数:63000] Loss: 307.237
+[训练次数:63100] Loss: 370.856
+[训练次数:63200] Loss: 433.788
+[训练次数:63300] Loss: 494.738
+[训练次数:63400] Loss: 559.698
+[训练次数:63500] Loss: 623.144
+[训练次数:63600] Loss: 685.276
+[训练次数:63700] Loss: 750.645
+[训练次数:63800] Loss: 812.645
+[训练次数:63900] Loss: 875.126
+[训练次数:64000] Loss: 941.888
+Compressing...
+开始测试!
+测试集上的loss：209.28801012039185
+测试分类准确率为：76.85
+--------第41轮训练开始---------
+[训练次数:64100] Loss: 10.798
+[训练次数:64200] Loss: 73.177
+[训练次数:64300] Loss: 132.300
+[训练次数:64400] Loss: 194.508
+[训练次数:64500] Loss: 255.924
+[训练次数:64600] Loss: 318.933
+[训练次数:64700] Loss: 384.669
+[训练次数:64800] Loss: 447.491
+[训练次数:64900] Loss: 511.306
+[训练次数:65000] Loss: 575.508
+[训练次数:65100] Loss: 639.816
+[训练次数:65200] Loss: 706.486
+[训练次数:65300] Loss: 773.188
+[训练次数:65400] Loss: 832.872
+[训练次数:65500] Loss: 895.435
+[训练次数:65600] Loss: 961.157
+Compressing...
+开始测试!
+测试集上的loss：207.45004627108574
+测试分类准确率为：77.09
+--------第42轮训练开始---------
+[训练次数:65700] Loss: 35.262
+[训练次数:65800] Loss: 100.105
+[训练次数:65900] Loss: 162.823
+[训练次数:66000] Loss: 224.172
+[训练次数:66100] Loss: 285.784
+[训练次数:66200] Loss: 349.020
+[训练次数:66300] Loss: 412.025
+[训练次数:66400] Loss: 478.003
+[训练次数:66500] Loss: 541.048
+[训练次数:66600] Loss: 601.398
+[训练次数:66700] Loss: 664.078
+[训练次数:66800] Loss: 728.496
+[训练次数:66900] Loss: 791.221
+[训练次数:67000] Loss: 856.674
+[训练次数:67100] Loss: 918.388
+[训练次数:67200] Loss: 980.653
+Compressing...
+开始测试!
+测试集上的loss：207.19131609797478
+测试分类准确率为：77.57
+--------第43轮训练开始---------
+[训练次数:67300] Loss: 57.997
+[训练次数:67400] Loss: 120.891
+[训练次数:67500] Loss: 183.776
+[训练次数:67600] Loss: 241.906
+[训练次数:67700] Loss: 302.304
+[训练次数:67800] Loss: 361.701
+[训练次数:67900] Loss: 422.104
+[训练次数:68000] Loss: 484.423
+[训练次数:68100] Loss: 547.069
+[训练次数:68200] Loss: 608.925
+[训练次数:68300] Loss: 669.670
+[训练次数:68400] Loss: 733.019
+[训练次数:68500] Loss: 794.613
+[训练次数:68600] Loss: 855.972
+[训练次数:68700] Loss: 920.660
+Compressing...
+开始测试!
+测试集上的loss：207.51269501447678
+测试分类准确率为：76.94
+--------第44轮训练开始---------
+[训练次数:68800] Loss: 16.576
+[训练次数:68900] Loss: 76.915
+[训练次数:69000] Loss: 137.249
+[训练次数:69100] Loss: 196.655
+[训练次数:69200] Loss: 261.682
+[训练次数:69300] Loss: 325.627
+[训练次数:69400] Loss: 386.660
+[训练次数:69500] Loss: 448.821
+[训练次数:69600] Loss: 508.788
+[训练次数:69700] Loss: 573.016
+[训练次数:69800] Loss: 634.108
+[训练次数:69900] Loss: 695.826
+[训练次数:70000] Loss: 758.264
+[训练次数:70100] Loss: 820.966
+[训练次数:70200] Loss: 882.575
+[训练次数:70300] Loss: 945.609
+Compressing...
+开始测试!
+测试集上的loss：204.5701560229063
+测试分类准确率为：77.44
+--------第45轮训练开始---------
+[训练次数:70400] Loss: 42.381
+[训练次数:70500] Loss: 101.370
+[训练次数:70600] Loss: 162.279
+[训练次数:70700] Loss: 226.527
+[训练次数:70800] Loss: 287.487
+[训练次数:70900] Loss: 348.871
+[训练次数:71000] Loss: 408.858
+[训练次数:71100] Loss: 470.901
+[训练次数:71200] Loss: 532.271
+[训练次数:71300] Loss: 593.513
+[训练次数:71400] Loss: 652.434
+[训练次数:71500] Loss: 714.491
+[训练次数:71600] Loss: 773.459
+[训练次数:71700] Loss: 835.310
+[训练次数:71800] Loss: 897.195
+Compressing...
+开始测试!
+测试集上的loss：205.4343237876892
+测试分类准确率为：77.05
+--------第46轮训练开始---------
+[训练次数:71900] Loss: 1.076
+[训练次数:72000] Loss: 62.782
+[训练次数:72100] Loss: 121.447
+[训练次数:72200] Loss: 180.233
+[训练次数:72300] Loss: 239.736
+[训练次数:72400] Loss: 299.949
+[训练次数:72500] Loss: 362.300
+[训练次数:72600] Loss: 421.041
+[训练次数:72700] Loss: 481.085
+[训练次数:72800] Loss: 542.627
+[训练次数:72900] Loss: 606.560
+[训练次数:73000] Loss: 667.441
+[训练次数:73100] Loss: 726.864
+[训练次数:73200] Loss: 791.143
+[训练次数:73300] Loss: 850.970
+[训练次数:73400] Loss: 911.599
+Compressing...
+开始测试!
+测试集上的loss：200.86688208580017
+测试分类准确率为：77.79
+--------第47轮训练开始---------
+[训练次数:73500] Loss: 22.471
+[训练次数:73600] Loss: 78.779
+[训练次数:73700] Loss: 135.939
+[训练次数:73800] Loss: 191.681
+[训练次数:73900] Loss: 249.590
+[训练次数:74000] Loss: 309.798
+[训练次数:74100] Loss: 370.812
+[训练次数:74200] Loss: 430.626
+[训练次数:74300] Loss: 491.114
+[训练次数:74400] Loss: 551.175
+[训练次数:74500] Loss: 610.759
+[训练次数:74600] Loss: 673.370
+[训练次数:74700] Loss: 737.289
+[训练次数:74800] Loss: 799.638
+[训练次数:74900] Loss: 859.797
+[训练次数:75000] Loss: 918.269
+Compressing...
+开始测试!
+测试集上的loss：199.5688937306404
+测试分类准确率为：78.09
+--------第48轮训练开始---------
+[训练次数:75100] Loss: 42.223
+[训练次数:75200] Loss: 104.058
+[训练次数:75300] Loss: 163.304
+[训练次数:75400] Loss: 220.527
+[训练次数:75500] Loss: 282.807
+[训练次数:75600] Loss: 341.734
+[训练次数:75700] Loss: 402.835
+[训练次数:75800] Loss: 462.208
+[训练次数:75900] Loss: 520.810
+[训练次数:76000] Loss: 578.757
+[训练次数:76100] Loss: 638.231
+[训练次数:76200] Loss: 699.082
+[训练次数:76300] Loss: 758.565
+[训练次数:76400] Loss: 816.799
+[训练次数:76500] Loss: 880.878
+Compressing...
+开始测试!
+测试集上的loss：199.48744216561317
+测试分类准确率为：78.03
+--------第49轮训练开始---------
+[训练次数:76600] Loss: 6.432
+[训练次数:76700] Loss: 61.575
+[训练次数:76800] Loss: 118.390
+[训练次数:76900] Loss: 175.147
+[训练次数:77000] Loss: 234.923
+[训练次数:77100] Loss: 295.864
+[训练次数:77200] Loss: 351.602
+[训练次数:77300] Loss: 409.614
+[训练次数:77400] Loss: 468.948
+[训练次数:77500] Loss: 529.259
+[训练次数:77600] Loss: 592.135
+[训练次数:77700] Loss: 651.606
+[训练次数:77800] Loss: 713.341
+[训练次数:77900] Loss: 772.323
+[训练次数:78000] Loss: 833.703
+[训练次数:78100] Loss: 890.523
+Compressing...
+开始测试!
+测试集上的loss：201.35393151640892
+测试分类准确率为：77.78
+85
+训练结束!
+0.20309736251831054 28.847654066085816
+57.38523338794708
+Files already downloaded and verified
+Files already downloaded and verified
+开始训练! shufflenet-v2! 冲!
+--------第0轮训练开始---------
+[训练次数:100] Loss: 307.885
+[训练次数:200] Loss: 526.984
+[训练次数:300] Loss: 737.110
+[训练次数:400] Loss: 941.875
+[训练次数:500] Loss: 1141.019
+[训练次数:600] Loss: 1336.226
+[训练次数:700] Loss: 1529.703
+[训练次数:800] Loss: 1713.945
+[训练次数:900] Loss: 1898.548
+[训练次数:1000] Loss: 2079.570
+[训练次数:1100] Loss: 2259.055
+[训练次数:1200] Loss: 2436.981
+[训练次数:1300] Loss: 2612.599
+[训练次数:1400] Loss: 2786.608
+[训练次数:1500] Loss: 2960.011
+开始测试!
+测试集上的loss：492.4802049398422
+测试分类准确率为：41.9
+--------第1轮训练开始---------
+[训练次数:1600] Loss: 64.169
+[训练次数:1700] Loss: 235.565
+[训练次数:1800] Loss: 400.830
+[训练次数:1900] Loss: 565.930
+[训练次数:2000] Loss: 732.879
+[训练次数:2100] Loss: 897.761
+[训练次数:2200] Loss: 1061.352
+[训练次数:2300] Loss: 1224.137
+[训练次数:2400] Loss: 1384.584
+[训练次数:2500] Loss: 1543.433
+[训练次数:2600] Loss: 1700.951
+[训练次数:2700] Loss: 1857.011
+[训练次数:2800] Loss: 2013.835
+[训练次数:2900] Loss: 2165.328
+[训练次数:3000] Loss: 2318.117
+[训练次数:3100] Loss: 2472.154
+Compressing...
+开始测试!
+测试集上的loss：441.29855024814606
+测试分类准确率为：48.07
+--------第2轮训练开始---------
+[训练次数:3200] Loss: 111.633
+[训练次数:3300] Loss: 262.208
+[训练次数:3400] Loss: 416.332
+[训练次数:3500] Loss: 568.517
+[训练次数:3600] Loss: 718.540
+[训练次数:3700] Loss: 867.369
+[训练次数:3800] Loss: 1015.544
+[训练次数:3900] Loss: 1165.038
+[训练次数:4000] Loss: 1313.087
+[训练次数:4100] Loss: 1456.182
+[训练次数:4200] Loss: 1602.845
+[训练次数:4300] Loss: 1749.933
+[训练次数:4400] Loss: 1897.381
+[训练次数:4500] Loss: 2043.587
+[训练次数:4600] Loss: 2187.763
+Compressing...
+开始测试!
+测试集上的loss：412.0886753797531
+测试分类准确率为：52.16
+--------第3轮训练开始---------
+[训练次数:4700] Loss: 16.410
+[训练次数:4800] Loss: 157.708
+[训练次数:4900] Loss: 301.420
+[训练次数:5000] Loss: 443.424
+[训练次数:5100] Loss: 585.569
+[训练次数:5200] Loss: 726.858
+[训练次数:5300] Loss: 868.388
+[训练次数:5400] Loss: 1007.787
+[训练次数:5500] Loss: 1148.984
+[训练次数:5600] Loss: 1287.172
+[训练次数:5700] Loss: 1429.709
+[训练次数:5800] Loss: 1566.949
+[训练次数:5900] Loss: 1704.827
+[训练次数:6000] Loss: 1841.431
+[训练次数:6100] Loss: 1975.027
+[训练次数:6200] Loss: 2107.033
+Compressing...
+开始测试!
+测试集上的loss：383.4798264503479
+测试分类准确率为：56.3
+--------第4轮训练开始---------
+[训练次数:6300] Loss: 64.371
+[训练次数:6400] Loss: 199.136
+[训练次数:6500] Loss: 331.500
+[训练次数:6600] Loss: 467.031
+[训练次数:6700] Loss: 601.700
+[训练次数:6800] Loss: 734.465
+[训练次数:6900] Loss: 867.101
+[训练次数:7000] Loss: 998.207
+[训练次数:7100] Loss: 1128.263
+[训练次数:7200] Loss: 1260.962
+[训练次数:7300] Loss: 1391.548
+[训练次数:7400] Loss: 1522.833
+[训练次数:7500] Loss: 1652.511
+[训练次数:7600] Loss: 1782.525
+[训练次数:7700] Loss: 1914.025
+[训练次数:7800] Loss: 2047.806
+Compressing...
+开始测试!
+测试集上的loss：370.71281439065933
+测试分类准确率为：57.85
+--------第5轮训练开始---------
+[训练次数:7900] Loss: 107.966
+[训练次数:8000] Loss: 234.560
+[训练次数:8100] Loss: 361.889
+[训练次数:8200] Loss: 491.796
+[训练次数:8300] Loss: 621.447
+[训练次数:8400] Loss: 744.847
+[训练次数:8500] Loss: 869.672
+[训练次数:8600] Loss: 995.866
+[训练次数:8700] Loss: 1124.589
+[训练次数:8800] Loss: 1253.025
+[训练次数:8900] Loss: 1375.325
+[训练次数:9000] Loss: 1502.993
+[训练次数:9100] Loss: 1630.922
+[训练次数:9200] Loss: 1752.697
+[训练次数:9300] Loss: 1880.629
+Compressing...
+开始测试!
+测试集上的loss：354.7773071527481
+测试分类准确率为：59.53
+--------第6轮训练开始---------
+[训练次数:9400] Loss: 26.756
+[训练次数:9500] Loss: 145.837
+[训练次数:9600] Loss: 270.129
+[训练次数:9700] Loss: 391.941
+[训练次数:9800] Loss: 513.728
+[训练次数:9900] Loss: 637.156
+[训练次数:10000] Loss: 758.139
+[训练次数:10100] Loss: 879.769
+[训练次数:10200] Loss: 1002.646
+[训练次数:10300] Loss: 1126.814
+[训练次数:10400] Loss: 1248.098
+[训练次数:10500] Loss: 1369.591
+[训练次数:10600] Loss: 1490.399
+[训练次数:10700] Loss: 1606.648
+[训练次数:10800] Loss: 1727.088
+[训练次数:10900] Loss: 1852.348
+Compressing...
+开始测试!
+测试集上的loss：332.65780955553055
+测试分类准确率为：62.45
+--------第7轮训练开始---------
+[训练次数:11000] Loss: 66.911
+[训练次数:11100] Loss: 187.658
+[训练次数:11200] Loss: 307.308
+[训练次数:11300] Loss: 426.257
+[训练次数:11400] Loss: 540.485
+[训练次数:11500] Loss: 656.498
+[训练次数:11600] Loss: 777.776
+[训练次数:11700] Loss: 894.576
+[训练次数:11800] Loss: 1008.431
+[训练次数:11900] Loss: 1125.202
+[训练次数:12000] Loss: 1240.935
+[训练次数:12100] Loss: 1358.830
+[训练次数:12200] Loss: 1477.929
+[训练次数:12300] Loss: 1594.216
+[训练次数:12400] Loss: 1708.661
+[训练次数:12500] Loss: 1823.170
+Compressing...
+开始测试!
+测试集上的loss：330.10084199905396
+测试分类准确率为：63.0
+--------第8轮训练开始---------
+[训练次数:12600] Loss: 107.824
+[训练次数:12700] Loss: 220.587
+[训练次数:12800] Loss: 332.799
+[训练次数:12900] Loss: 447.878
+[训练次数:13000] Loss: 562.777
+[训练次数:13100] Loss: 677.253
+[训练次数:13200] Loss: 793.177
+[训练次数:13300] Loss: 907.248
+[训练次数:13400] Loss: 1019.625
+[训练次数:13500] Loss: 1130.948
+[训练次数:13600] Loss: 1243.997
+[训练次数:13700] Loss: 1353.664
+[训练次数:13800] Loss: 1469.181
+[训练次数:13900] Loss: 1582.121
+[训练次数:14000] Loss: 1694.773
+Compressing...
+开始测试!
+测试集上的loss：312.3778758049011
+测试分类准确率为：65.24
+--------第9轮训练开始---------
+[训练次数:14100] Loss: 36.600
+[训练次数:14200] Loss: 145.341
+[训练次数:14300] Loss: 252.900
+[训练次数:14400] Loss: 365.080
+[训练次数:14500] Loss: 472.356
+[训练次数:14600] Loss: 582.421
+[训练次数:14700] Loss: 689.701
+[训练次数:14800] Loss: 797.618
+[训练次数:14900] Loss: 904.714
+[训练次数:15000] Loss: 1012.416
+[训练次数:15100] Loss: 1124.016
+[训练次数:15200] Loss: 1232.034
+[训练次数:15300] Loss: 1344.013
+[训练次数:15400] Loss: 1451.722
+[训练次数:15500] Loss: 1558.277
+[训练次数:15600] Loss: 1666.221
+Compressing...
+开始测试!
+测试集上的loss：308.6572674512863
+测试分类准确率为：65.39
+--------第10轮训练开始---------
+[训练次数:15700] Loss: 73.527
+[训练次数:15800] Loss: 182.156
+[训练次数:15900] Loss: 286.940
+[训练次数:16000] Loss: 392.175
+[训练次数:16100] Loss: 497.532
+[训练次数:16200] Loss: 601.980
+[训练次数:16300] Loss: 705.081
+[训练次数:16400] Loss: 811.885
+[训练次数:16500] Loss: 916.486
+[训练次数:16600] Loss: 1020.409
+[训练次数:16700] Loss: 1126.047
+[训练次数:16800] Loss: 1229.757
+[训练次数:16900] Loss: 1336.932
+[训练次数:17000] Loss: 1443.518
+[训练次数:17100] Loss: 1550.320
+Compressing...
+开始测试!
+测试集上的loss：291.0566423237324
+测试分类准确率为：66.94
+--------第11轮训练开始---------
+[训练次数:17200] Loss: 6.845
+[训练次数:17300] Loss: 112.389
+[训练次数:17400] Loss: 218.926
+[训练次数:17500] Loss: 322.145
+[训练次数:17600] Loss: 423.582
+[训练次数:17700] Loss: 526.002
+[训练次数:17800] Loss: 629.100
+[训练次数:17900] Loss: 729.827
+[训练次数:18000] Loss: 829.613
+[训练次数:18100] Loss: 930.596
+[训练次数:18200] Loss: 1032.467
+[训练次数:18300] Loss: 1136.305
+[训练次数:18400] Loss: 1236.648
+[训练次数:18500] Loss: 1340.857
+[训练次数:18600] Loss: 1442.920
+[训练次数:18700] Loss: 1545.548
+Compressing...
+开始测试!
+测试集上的loss：289.37441489100456
+测试分类准确率为：67.62
+--------第12轮训练开始---------
+[训练次数:18800] Loss: 43.611
+[训练次数:18900] Loss: 144.016
+[训练次数:19000] Loss: 242.277
+[训练次数:19100] Loss: 341.301
+[训练次数:19200] Loss: 439.173
+[训练次数:19300] Loss: 539.985
+[训练次数:19400] Loss: 644.014
+[训练次数:19500] Loss: 742.120
+[训练次数:19600] Loss: 842.745
+[训练次数:19700] Loss: 940.142
+[训练次数:19800] Loss: 1039.148
+[训练次数:19900] Loss: 1136.269
+[训练次数:20000] Loss: 1237.580
+[训练次数:20100] Loss: 1338.210
+[训练次数:20200] Loss: 1435.430
+[训练次数:20300] Loss: 1536.686
+Compressing...
+开始测试!
+测试集上的loss：291.1594472527504
+测试分类准确率为：66.85
+--------第13轮训练开始---------
+[训练次数:20400] Loss: 79.966
+[训练次数:20500] Loss: 175.926
+[训练次数:20600] Loss: 275.206
+[训练次数:20700] Loss: 371.846
+[训练次数:20800] Loss: 468.155
+[训练次数:20900] Loss: 565.473
+[训练次数:21000] Loss: 659.126
+[训练次数:21100] Loss: 752.841
+[训练次数:21200] Loss: 851.853
+[训练次数:21300] Loss: 948.422
+[训练次数:21400] Loss: 1046.555
+[训练次数:21500] Loss: 1144.652
+[训练次数:21600] Loss: 1243.198
+[训练次数:21700] Loss: 1338.673
+[训练次数:21800] Loss: 1434.588
+Compressing...
+开始测试!
+测试集上的loss：270.4371702373028
+测试分类准确率为：69.76
+--------第14轮训练开始---------
+[训练次数:21900] Loss: 16.073
+[训练次数:22000] Loss: 108.170
+[训练次数:22100] Loss: 204.582
+[训练次数:22200] Loss: 299.383
+[训练次数:22300] Loss: 396.174
+[训练次数:22400] Loss: 486.335
+[训练次数:22500] Loss: 579.704
+[训练次数:22600] Loss: 674.777
+[训练次数:22700] Loss: 770.161
+[训练次数:22800] Loss: 863.662
+[训练次数:22900] Loss: 959.617
+[训练次数:23000] Loss: 1053.773
+[训练次数:23100] Loss: 1147.311
+[训练次数:23200] Loss: 1240.965
+[训练次数:23300] Loss: 1334.890
+[训练次数:23400] Loss: 1431.783
+Compressing...
+开始测试!
+测试集上的loss：269.547827064991
+测试分类准确率为：69.79
+--------第15轮训练开始---------
+[训练次数:23500] Loss: 50.639
+[训练次数:23600] Loss: 141.634
+[训练次数:23700] Loss: 233.023
+[训练次数:23800] Loss: 326.003
+[训练次数:23900] Loss: 415.373
+[训练次数:24000] Loss: 507.317
+[训练次数:24100] Loss: 596.843
+[训练次数:24200] Loss: 688.177
+[训练次数:24300] Loss: 780.153
+[训练次数:24400] Loss: 872.839
+[训练次数:24500] Loss: 966.508
+[训练次数:24600] Loss: 1057.325
+[训练次数:24700] Loss: 1147.010
+[训练次数:24800] Loss: 1240.800
+[训练次数:24900] Loss: 1334.927
+[训练次数:25000] Loss: 1424.740
+Compressing...
+开始测试!
+测试集上的loss：258.50985637307167
+测试分类准确率为：70.96
+--------第16轮训练开始---------
+[训练次数:25100] Loss: 83.571
+[训练次数:25200] Loss: 169.131
+[训练次数:25300] Loss: 258.230
+[训练次数:25400] Loss: 352.101
+[训练次数:25500] Loss: 441.091
+[训练次数:25600] Loss: 529.882
+[训练次数:25700] Loss: 621.196
+[训练次数:25800] Loss: 711.661
+[训练次数:25900] Loss: 800.957
+[训练次数:26000] Loss: 892.403
+[训练次数:26100] Loss: 981.167
+[训练次数:26200] Loss: 1068.478
+[训练次数:26300] Loss: 1157.605
+[训练次数:26400] Loss: 1246.954
+[训练次数:26500] Loss: 1336.102
+Compressing...
+开始测试!
+测试集上的loss：252.98766866326332
+测试分类准确率为：71.82
+--------第17轮训练开始---------
+[训练次数:26600] Loss: 24.219
+[训练次数:26700] Loss: 111.553
+[训练次数:26800] Loss: 198.397
+[训练次数:26900] Loss: 285.507
+[训练次数:27000] Loss: 374.198
+[训练次数:27100] Loss: 460.054
+[训练次数:27200] Loss: 548.682
+[训练次数:27300] Loss: 637.061
+[训练次数:27400] Loss: 729.820
+[训练次数:27500] Loss: 816.160
+[训练次数:27600] Loss: 900.521
+[训练次数:27700] Loss: 990.921
+[训练次数:27800] Loss: 1081.022
+[训练次数:27900] Loss: 1170.750
+[训练次数:28000] Loss: 1258.571
+[训练次数:28100] Loss: 1344.031
+Compressing...
+开始测试!
+测试集上的loss：246.15153229236603
+测试分类准确率为：72.43
+--------第18轮训练开始---------
+[训练次数:28200] Loss: 57.588
+[训练次数:28300] Loss: 142.686
+[训练次数:28400] Loss: 226.875
+[训练次数:28500] Loss: 315.141
+[训练次数:28600] Loss: 397.568
+[训练次数:28700] Loss: 487.379
+[训练次数:28800] Loss: 573.067
+[训练次数:28900] Loss: 662.253
+[训练次数:29000] Loss: 748.073
+[训练次数:29100] Loss: 830.742
+[训练次数:29200] Loss: 918.901
+[训练次数:29300] Loss: 1007.511
+[训练次数:29400] Loss: 1091.405
+[训练次数:29500] Loss: 1177.952
+[训练次数:29600] Loss: 1263.444
+Compressing...
+开始测试!
+测试集上的loss：252.17095398902893
+测试分类准确率为：71.68
+--------第19轮训练开始---------
+[训练次数:29700] Loss: 3.132
+[训练次数:29800] Loss: 84.971
+[训练次数:29900] Loss: 169.324
+[训练次数:30000] Loss: 254.829
+[训练次数:30100] Loss: 339.931
+[训练次数:30200] Loss: 421.606
+[训练次数:30300] Loss: 503.652
+[训练次数:30400] Loss: 586.771
+[训练次数:30500] Loss: 673.460
+[训练次数:30600] Loss: 756.442
+[训练次数:30700] Loss: 838.856
+[训练次数:30800] Loss: 924.002
+[训练次数:30900] Loss: 1010.259
+[训练次数:31000] Loss: 1096.629
+[训练次数:31100] Loss: 1183.064
+[训练次数:31200] Loss: 1268.420
+Compressing...
+开始测试!
+测试集上的loss：241.06588032841682
+测试分类准确率为：72.97
+--------第20轮训练开始---------
+[训练次数:31300] Loss: 30.548
+[训练次数:31400] Loss: 113.404
+[训练次数:31500] Loss: 199.281
+[训练次数:31600] Loss: 281.482
+[训练次数:31700] Loss: 365.827
+[训练次数:31800] Loss: 445.388
+[训练次数:31900] Loss: 528.510
+[训练次数:32000] Loss: 610.849
+[训练次数:32100] Loss: 693.374
+[训练次数:32200] Loss: 773.875
+[训练次数:32300] Loss: 857.469
+[训练次数:32400] Loss: 941.061
+[训练次数:32500] Loss: 1022.101
+[训练次数:32600] Loss: 1105.425
+[训练次数:32700] Loss: 1184.632
+[训练次数:32800] Loss: 1267.076
+Compressing...
+开始测试!
+测试集上的loss：239.15496653318405
+测试分类准确率为：73.07
+--------第21轮训练开始---------
+[训练次数:32900] Loss: 59.885
+[训练次数:33000] Loss: 140.622
+[训练次数:33100] Loss: 220.767
+[训练次数:33200] Loss: 299.969
+[训练次数:33300] Loss: 377.321
+[训练次数:33400] Loss: 459.394
+[训练次数:33500] Loss: 540.661
+[训练次数:33600] Loss: 623.840
+[训练次数:33700] Loss: 707.409
+[训练次数:33800] Loss: 789.398
+[训练次数:33900] Loss: 870.862
+[训练次数:34000] Loss: 949.275
+[训练次数:34100] Loss: 1028.934
+[训练次数:34200] Loss: 1110.432
+[训练次数:34300] Loss: 1191.869
+Compressing...
+开始测试!
+测试集上的loss：234.92963913083076
+测试分类准确率为：73.54
+--------第22轮训练开始---------
+[训练次数:34400] Loss: 11.110
+[训练次数:34500] Loss: 94.033
+[训练次数:34600] Loss: 173.135
+[训练次数:34700] Loss: 253.482
+[训练次数:34800] Loss: 331.272
+[训练次数:34900] Loss: 411.985
+[训练次数:35000] Loss: 491.992
+[训练次数:35100] Loss: 573.554
+[训练次数:35200] Loss: 653.787
+[训练次数:35300] Loss: 731.571
+[训练次数:35400] Loss: 809.579
+[训练次数:35500] Loss: 886.843
+[训练次数:35600] Loss: 967.110
+[训练次数:35700] Loss: 1046.258
+[训练次数:35800] Loss: 1127.295
+[训练次数:35900] Loss: 1205.063
+Compressing...
+开始测试!
+测试集上的loss：231.763740837574
+测试分类准确率为：74.0
+--------第23轮训练开始---------
+[训练次数:36000] Loss: 40.222
+[训练次数:36100] Loss: 118.997
+[训练次数:36200] Loss: 197.210
+[训练次数:36300] Loss: 273.070
+[训练次数:36400] Loss: 354.355
+[训练次数:36500] Loss: 434.409
+[训练次数:36600] Loss: 512.918
+[训练次数:36700] Loss: 592.373
+[训练次数:36800] Loss: 672.250
+[训练次数:36900] Loss: 750.679
+[训练次数:37000] Loss: 829.389
+[训练次数:37100] Loss: 906.157
+[训练次数:37200] Loss: 982.803
+[训练次数:37300] Loss: 1058.318
+[训练次数:37400] Loss: 1135.943
+[训练次数:37500] Loss: 1213.710
+Compressing...
+开始测试!
+测试集上的loss：237.4527213871479
+测试分类准确率为：73.48
+--------第24轮训练开始---------
+[训练次数:37600] Loss: 69.500
+[训练次数:37700] Loss: 143.751
+[训练次数:37800] Loss: 218.910
+[训练次数:37900] Loss: 294.939
+[训练次数:38000] Loss: 375.100
+[训练次数:38100] Loss: 448.748
+[训练次数:38200] Loss: 531.236
+[训练次数:38300] Loss: 609.083
+[训练次数:38400] Loss: 685.930
+[训练次数:38500] Loss: 763.498
+[训练次数:38600] Loss: 839.998
+[训练次数:38700] Loss: 919.154
+[训练次数:38800] Loss: 995.806
+[训练次数:38900] Loss: 1074.120
+[训练次数:39000] Loss: 1151.266
+Compressing...
+开始测试!
+测试集上的loss：223.6027666926384
+测试分类准确率为：75.27
+--------第25轮训练开始---------
+[训练次数:39100] Loss: 17.328
+[训练次数:39200] Loss: 91.695
+[训练次数:39300] Loss: 167.306
+[训练次数:39400] Loss: 242.146
+[训练次数:39500] Loss: 320.316
+[训练次数:39600] Loss: 396.216
+[训练次数:39700] Loss: 473.594
+[训练次数:39800] Loss: 548.140
+[训练次数:39900] Loss: 622.566
+[训练次数:40000] Loss: 696.120
+[训练次数:40100] Loss: 770.024
+[训练次数:40200] Loss: 846.849
+[训练次数:40300] Loss: 924.488
+[训练次数:40400] Loss: 1002.306
+[训练次数:40500] Loss: 1077.048
+[训练次数:40600] Loss: 1151.387
+Compressing...
+开始测试!
+测试集上的loss：233.0659646987915
+测试分类准确率为：73.97
+--------第26轮训练开始---------
+[训练次数:40700] Loss: 44.203
+[训练次数:40800] Loss: 117.548
+[训练次数:40900] Loss: 190.332
+[训练次数:41000] Loss: 264.182
+[训练次数:41100] Loss: 336.067
+[训练次数:41200] Loss: 412.938
+[训练次数:41300] Loss: 488.385
+[训练次数:41400] Loss: 564.516
+[训练次数:41500] Loss: 636.407
+[训练次数:41600] Loss: 713.069
+[训练次数:41700] Loss: 787.160
+[训练次数:41800] Loss: 861.057
+[训练次数:41900] Loss: 936.783
+[训练次数:42000] Loss: 1011.487
+[训练次数:42100] Loss: 1086.448
+[训练次数:42200] Loss: 1161.133
+Compressing...
+开始测试!
+测试集上的loss：219.72573405504227
+测试分类准确率为：75.22
+--------第27轮训练开始---------
+[训练次数:42300] Loss: 76.907
+[训练次数:42400] Loss: 150.774
+[训练次数:42500] Loss: 221.754
+[训练次数:42600] Loss: 294.659
+[训练次数:42700] Loss: 368.787
+[训练次数:42800] Loss: 445.155
+[训练次数:42900] Loss: 519.913
+[训练次数:43000] Loss: 593.291
+[训练次数:43100] Loss: 664.706
+[训练次数:43200] Loss: 736.369
+[训练次数:43300] Loss: 806.412
+[训练次数:43400] Loss: 879.224
+[训练次数:43500] Loss: 952.768
+[训练次数:43600] Loss: 1025.805
+[训练次数:43700] Loss: 1100.503
+Compressing...
+开始测试!
+测试集上的loss：223.1266438961029
+测试分类准确率为：75.07
+--------第28轮训练开始---------
+[训练次数:43800] Loss: 24.721
+[训练次数:43900] Loss: 95.531
+[训练次数:44000] Loss: 171.557
+[训练次数:44100] Loss: 241.903
+[训练次数:44200] Loss: 313.135
+[训练次数:44300] Loss: 385.828
+[训练次数:44400] Loss: 459.831
+[训练次数:44500] Loss: 531.818
+[训练次数:44600] Loss: 601.747
+[训练次数:44700] Loss: 675.242
+[训练次数:44800] Loss: 749.790
+[训练次数:44900] Loss: 821.634
+[训练次数:45000] Loss: 894.274
+[训练次数:45100] Loss: 966.885
+[训练次数:45200] Loss: 1036.800
+[训练次数:45300] Loss: 1113.185
+Compressing...
+开始测试!
+测试集上的loss：222.26570916175842
+测试分类准确率为：75.02
+--------第29轮训练开始---------
+[训练次数:45400] Loss: 51.438
+[训练次数:45500] Loss: 120.012
+[训练次数:45600] Loss: 195.415
+[训练次数:45700] Loss: 268.924
+[训练次数:45800] Loss: 338.297
+[训练次数:45900] Loss: 408.137
+[训练次数:46000] Loss: 477.665
+[训练次数:46100] Loss: 549.997
+[训练次数:46200] Loss: 623.464
+[训练次数:46300] Loss: 694.649
+[训练次数:46400] Loss: 766.905
+[训练次数:46500] Loss: 839.269
+[训练次数:46600] Loss: 911.745
+[训练次数:46700] Loss: 980.587
+[训练次数:46800] Loss: 1050.160
+Compressing...
+开始测试!
+测试集上的loss：211.86473754048347
+测试分类准确率为：76.42
+--------第30轮训练开始---------
+[训练次数:46900] Loss: 7.399
+[训练次数:47000] Loss: 73.411
+[训练次数:47100] Loss: 143.417
+[训练次数:47200] Loss: 210.590
+[训练次数:47300] Loss: 282.162
+[训练次数:47400] Loss: 353.914
+[训练次数:47500] Loss: 421.957
+[训练次数:47600] Loss: 491.790
+[训练次数:47700] Loss: 564.073
+[训练次数:47800] Loss: 634.128
+[训练次数:47900] Loss: 705.694
+[训练次数:48000] Loss: 775.427
+[训练次数:48100] Loss: 849.469
+[训练次数:48200] Loss: 920.531
+[训练次数:48300] Loss: 990.336
+[训练次数:48400] Loss: 1064.505
+Compressing...
+开始测试!
+测试集上的loss：213.38961187005043
+测试分类准确率为：76.16
+--------第31轮训练开始---------
+[训练次数:48500] Loss: 31.022
+[训练次数:48600] Loss: 97.651
+[训练次数:48700] Loss: 164.707
+[训练次数:48800] Loss: 234.383
+[训练次数:48900] Loss: 302.551
+[训练次数:49000] Loss: 372.592
+[训练次数:49100] Loss: 440.975
+[训练次数:49200] Loss: 514.050
+[训练次数:49300] Loss: 583.641
+[训练次数:49400] Loss: 653.350
+[训练次数:49500] Loss: 725.507
+[训练次数:49600] Loss: 794.878
+[训练次数:49700] Loss: 867.920
+[训练次数:49800] Loss: 937.831
+[训练次数:49900] Loss: 1003.665
+[训练次数:50000] Loss: 1074.694
+Compressing...
+开始测试!
+测试集上的loss：213.28868958353996
+测试分类准确率为：76.24
+--------第32轮训练开始---------
+[训练次数:50100] Loss: 57.691
+[训练次数:50200] Loss: 127.054
+[训练次数:50300] Loss: 195.030
+[训练次数:50400] Loss: 263.230
+[训练次数:50500] Loss: 331.774
+[训练次数:50600] Loss: 396.328
+[训练次数:50700] Loss: 464.668
+[训练次数:50800] Loss: 533.275
+[训练次数:50900] Loss: 600.432
+[训练次数:51000] Loss: 669.369
+[训练次数:51100] Loss: 735.563
+[训练次数:51200] Loss: 804.202
+[训练次数:51300] Loss: 875.532
+[训练次数:51400] Loss: 947.426
+[训练次数:51500] Loss: 1015.176
+Compressing...
+开始测试!
+测试集上的loss：214.32484140992165
+测试分类准确率为：76.45
+--------第33轮训练开始---------
+[训练次数:51600] Loss: 12.566
+[训练次数:51700] Loss: 80.092
+[训练次数:51800] Loss: 146.100
+[训练次数:51900] Loss: 216.428
+[训练次数:52000] Loss: 286.015
+[训练次数:52100] Loss: 353.273
+[训练次数:52200] Loss: 422.470
+[训练次数:52300] Loss: 494.118
+[训练次数:52400] Loss: 558.765
+[训练次数:52500] Loss: 625.886
+[训练次数:52600] Loss: 689.686
+[训练次数:52700] Loss: 759.641
+[训练次数:52800] Loss: 825.531
+[训练次数:52900] Loss: 895.024
+[训练次数:53000] Loss: 964.362
+[训练次数:53100] Loss: 1035.535
+Compressing...
+开始测试!
+测试集上的loss：213.84747567772865
+测试分类准确率为：76.61
+--------第34轮训练开始---------
+[训练次数:53200] Loss: 37.296
+[训练次数:53300] Loss: 99.765
+[训练次数:53400] Loss: 163.946
+[训练次数:53500] Loss: 233.257
+[训练次数:53600] Loss: 297.579
+[训练次数:53700] Loss: 365.691
+[训练次数:53800] Loss: 436.406
+[训练次数:53900] Loss: 501.019
+[训练次数:54000] Loss: 572.469
+[训练次数:54100] Loss: 636.068
+[训练次数:54200] Loss: 705.030
+[训练次数:54300] Loss: 772.181
+[训练次数:54400] Loss: 840.319
+[训练次数:54500] Loss: 904.424
+[训练次数:54600] Loss: 972.128
+[训练次数:54700] Loss: 1039.910
+Compressing...
+开始测试!
+测试集上的loss：205.48586750030518
+测试分类准确率为：77.28
+--------第35轮训练开始---------
+[训练次数:54800] Loss: 58.745
+[训练次数:54900] Loss: 122.136
+[训练次数:55000] Loss: 187.669
+[训练次数:55100] Loss: 251.370
+[训练次数:55200] Loss: 319.105
+[训练次数:55300] Loss: 386.631
+[训练次数:55400] Loss: 454.525
+[训练次数:55500] Loss: 521.773
+[训练次数:55600] Loss: 588.268
+[训练次数:55700] Loss: 654.143
+[训练次数:55800] Loss: 719.364
+[训练次数:55900] Loss: 786.601
+[训练次数:56000] Loss: 850.740
+[训练次数:56100] Loss: 916.560
+[训练次数:56200] Loss: 982.277
+Compressing...
+开始测试!
+测试集上的loss：206.48487836122513
+测试分类准确率为：76.8
+--------第36轮训练开始---------
+[训练次数:56300] Loss: 20.188
+[训练次数:56400] Loss: 84.581
+[训练次数:56500] Loss: 146.787
+[训练次数:56600] Loss: 211.472
+[训练次数:56700] Loss: 275.840
+[训练次数:56800] Loss: 340.190
+[训练次数:56900] Loss: 404.479
+[训练次数:57000] Loss: 468.075
+[训练次数:57100] Loss: 533.405
+[训练次数:57200] Loss: 598.725
+[训练次数:57300] Loss: 665.137
+[训练次数:57400] Loss: 731.503
+[训练次数:57500] Loss: 795.988
+[训练次数:57600] Loss: 864.787
+[训练次数:57700] Loss: 931.595
+[训练次数:57800] Loss: 996.668
+Compressing...
+开始测试!
+测试集上的loss：202.6780709028244
+测试分类准确率为：77.14
+--------第37轮训练开始---------
+[训练次数:57900] Loss: 41.356
+[训练次数:58000] Loss: 102.872
+[训练次数:58100] Loss: 166.214
+[训练次数:58200] Loss: 229.037
+[训练次数:58300] Loss: 294.207
+[训练次数:58400] Loss: 357.858
+[训练次数:58500] Loss: 420.788
+[训练次数:58600] Loss: 485.300
+[训练次数:58700] Loss: 556.674
+[训练次数:58800] Loss: 623.260
+[训练次数:58900] Loss: 688.862
+[训练次数:59000] Loss: 754.353
+[训练次数:59100] Loss: 818.130
+[训练次数:59200] Loss: 883.681
+[训练次数:59300] Loss: 952.337
+Compressing...
+开始测试!
+测试集上的loss：216.29336482286453
+测试分类准确率为：76.36
+--------第38轮训练开始---------
+[训练次数:59400] Loss: 4.054
+[训练次数:59500] Loss: 66.814
+[训练次数:59600] Loss: 127.955
+[训练次数:59700] Loss: 193.995
+[训练次数:59800] Loss: 259.512
+[训练次数:59900] Loss: 325.254
+[训练次数:60000] Loss: 386.554
+[训练次数:60100] Loss: 451.104
+[训练次数:60200] Loss: 513.159
+[训练次数:60300] Loss: 577.112
+[训练次数:60400] Loss: 638.373
+[训练次数:60500] Loss: 702.328
+[训练次数:60600] Loss: 766.696
+[训练次数:60700] Loss: 830.200
+[训练次数:60800] Loss: 895.178
+[训练次数:60900] Loss: 960.760
+Compressing...
+开始测试!
+测试集上的loss：208.7869845032692
+测试分类准确率为：76.85
+--------第39轮训练开始---------
+[训练次数:61000] Loss: 27.199
+[训练次数:61100] Loss: 89.558
+[训练次数:61200] Loss: 152.708
+[训练次数:61300] Loss: 217.069
+[训练次数:61400] Loss: 281.573
+[训练次数:61500] Loss: 343.400
+[训练次数:61600] Loss: 405.418
+[训练次数:61700] Loss: 468.105
+[训练次数:61800] Loss: 533.253
+[训练次数:61900] Loss: 596.484
+[训练次数:62000] Loss: 660.608
+[训练次数:62100] Loss: 725.839
+[训练次数:62200] Loss: 790.875
+[训练次数:62300] Loss: 854.806
+[训练次数:62400] Loss: 919.429
+[训练次数:62500] Loss: 985.260
+Compressing...
+开始测试!
+测试集上的loss：204.83679112792015
+测试分类准确率为：77.39
+--------第40轮训练开始---------
+[训练次数:62600] Loss: 49.249
+[训练次数:62700] Loss: 113.448
+[训练次数:62800] Loss: 173.211
+[训练次数:62900] Loss: 234.681
+[训练次数:63000] Loss: 295.909
+[训练次数:63100] Loss: 358.603
+[训练次数:63200] Loss: 422.676
+[训练次数:63300] Loss: 485.731
+[训练次数:63400] Loss: 547.458
+[训练次数:63500] Loss: 609.960
+[训练次数:63600] Loss: 674.509
+[训练次数:63700] Loss: 738.185
+[训练次数:63800] Loss: 801.327
+[训练次数:63900] Loss: 864.581
+[训练次数:64000] Loss: 925.602
+Compressing...
+开始测试!
+测试集上的loss：200.40425157546997
+测试分类准确率为：77.82
+--------第41轮训练开始---------
+[训练次数:64100] Loss: 9.723
+[训练次数:64200] Loss: 70.108
+[训练次数:64300] Loss: 131.012
+[训练次数:64400] Loss: 191.578
+[训练次数:64500] Loss: 253.518
+[训练次数:64600] Loss: 316.264
+[训练次数:64700] Loss: 378.070
+[训练次数:64800] Loss: 436.306
+[训练次数:64900] Loss: 495.858
+[训练次数:65000] Loss: 561.234
+[训练次数:65100] Loss: 624.287
+[训练次数:65200] Loss: 688.973
+[训练次数:65300] Loss: 749.270
+[训练次数:65400] Loss: 813.140
+[训练次数:65500] Loss: 874.210
+[训练次数:65600] Loss: 936.659
+Compressing...
+开始测试!
+测试集上的loss：202.729034781456
+测试分类准确率为：77.51
+--------第42轮训练开始---------
+[训练次数:65700] Loss: 31.671
+[训练次数:65800] Loss: 91.899
+[训练次数:65900] Loss: 151.200
+[训练次数:66000] Loss: 210.210
+[训练次数:66100] Loss: 273.001
+[训练次数:66200] Loss: 336.106
+[训练次数:66300] Loss: 398.471
+[训练次数:66400] Loss: 458.100
+[训练次数:66500] Loss: 518.918
+[训练次数:66600] Loss: 582.856
+[训练次数:66700] Loss: 643.418
+[训练次数:66800] Loss: 705.143
+[训练次数:66900] Loss: 766.132
+[训练次数:67000] Loss: 826.018
+[训练次数:67100] Loss: 890.556
+[训练次数:67200] Loss: 952.392
+Compressing...
+开始测试!
+测试集上的loss：201.6608391404152
+测试分类准确率为：77.72
+--------第43轮训练开始---------
+[训练次数:67300] Loss: 54.271
+[训练次数:67400] Loss: 112.190
+[训练次数:67500] Loss: 173.374
+[训练次数:67600] Loss: 234.865
+[训练次数:67700] Loss: 295.880
+[训练次数:67800] Loss: 357.201
+[训练次数:67900] Loss: 417.434
+[训练次数:68000] Loss: 481.140
+[训练次数:68100] Loss: 539.910
+[训练次数:68200] Loss: 599.877
+[训练次数:68300] Loss: 659.312
+[训练次数:68400] Loss: 721.217
+[训练次数:68500] Loss: 781.893
+[训练次数:68600] Loss: 841.809
+[训练次数:68700] Loss: 902.799
+Compressing...
+开始测试!
+测试集上的loss：200.05889649689198
+测试分类准确率为：77.71
+--------第44轮训练开始---------
+[训练次数:68800] Loss: 15.781
+[训练次数:68900] Loss: 75.855
+[训练次数:69000] Loss: 138.137
+[训练次数:69100] Loss: 196.749
+[训练次数:69200] Loss: 257.754
+[训练次数:69300] Loss: 318.503
+[训练次数:69400] Loss: 378.857
+[训练次数:69500] Loss: 440.074
+[训练次数:69600] Loss: 498.087
+[训练次数:69700] Loss: 559.666
+[训练次数:69800] Loss: 620.386
+[训练次数:69900] Loss: 683.634
+[训练次数:70000] Loss: 744.501
+[训练次数:70100] Loss: 803.843
+[训练次数:70200] Loss: 865.322
+[训练次数:70300] Loss: 923.359
+Compressing...
+开始测试!
+测试集上的loss：204.76589423418045
+测试分类准确率为：77.48
+--------第45轮训练开始---------
+[训练次数:70400] Loss: 39.479
+[训练次数:70500] Loss: 99.116
+[训练次数:70600] Loss: 158.479
+[训练次数:70700] Loss: 220.136
+[训练次数:70800] Loss: 281.814
+[训练次数:70900] Loss: 343.772
+[训练次数:71000] Loss: 402.723
+[训练次数:71100] Loss: 464.516
+[训练次数:71200] Loss: 526.853
+[训练次数:71300] Loss: 585.441
+[训练次数:71400] Loss: 644.065
+[训练次数:71500] Loss: 701.940
+[训练次数:71600] Loss: 758.493
+[训练次数:71700] Loss: 817.701
+[训练次数:71800] Loss: 877.104
+Compressing...
+开始测试!
+测试集上的loss：201.37944309413433
+测试分类准确率为：77.37
+--------第46轮训练开始---------
+[训练次数:71900] Loss: 1.117
+[训练次数:72000] Loss: 60.153
+[训练次数:72100] Loss: 114.714
+[训练次数:72200] Loss: 175.003
+[训练次数:72300] Loss: 231.122
+[训练次数:72400] Loss: 287.707
+[训练次数:72500] Loss: 347.338
+[训练次数:72600] Loss: 407.954
+[训练次数:72700] Loss: 466.401
+[训练次数:72800] Loss: 526.967
+[训练次数:72900] Loss: 590.371
+[训练次数:73000] Loss: 649.776
+[训练次数:73100] Loss: 710.848
+[训练次数:73200] Loss: 770.965
+[训练次数:73300] Loss: 829.606
+[训练次数:73400] Loss: 885.568
+Compressing...
+开始测试!
+测试集上的loss：196.3110722452402
+测试分类准确率为：78.27
+--------第47轮训练开始---------
+[训练次数:73500] Loss: 22.661
+[训练次数:73600] Loss: 79.215
+[训练次数:73700] Loss: 136.535
+[训练次数:73800] Loss: 193.001
+[训练次数:73900] Loss: 250.837
+[训练次数:74000] Loss: 309.278
+[训练次数:74100] Loss: 368.464
+[训练次数:74200] Loss: 425.901
+[训练次数:74300] Loss: 484.577
+[训练次数:74400] Loss: 543.767
+[训练次数:74500] Loss: 600.247
+[训练次数:74600] Loss: 658.663
+[训练次数:74700] Loss: 717.662
+[训练次数:74800] Loss: 774.138
+[训练次数:74900] Loss: 832.785
+[训练次数:75000] Loss: 895.234
+Compressing...
+开始测试!
+测试集上的loss：195.91862370073795
+测试分类准确率为：78.37
+--------第48轮训练开始---------
+[训练次数:75100] Loss: 45.764
+[训练次数:75200] Loss: 104.398
+[训练次数:75300] Loss: 164.464
+[训练次数:75400] Loss: 220.120
+[训练次数:75500] Loss: 276.852
+[训练次数:75600] Loss: 332.983
+[训练次数:75700] Loss: 392.717
+[训练次数:75800] Loss: 453.119
+[训练次数:75900] Loss: 507.495
+[训练次数:76000] Loss: 565.401
+[训练次数:76100] Loss: 625.469
+[训练次数:76200] Loss: 683.809
+[训练次数:76300] Loss: 742.185
+[训练次数:76400] Loss: 802.273
+[训练次数:76500] Loss: 862.942
+Compressing...
+开始测试!
+测试集上的loss：193.48774556815624
+测试分类准确率为：78.44
+--------第49轮训练开始---------
+[训练次数:76600] Loss: 7.286
+[训练次数:76700] Loss: 63.573
+[训练次数:76800] Loss: 119.596
+[训练次数:76900] Loss: 175.820
+[训练次数:77000] Loss: 233.512
+[训练次数:77100] Loss: 289.135
+[训练次数:77200] Loss: 348.818
+[训练次数:77300] Loss: 408.558
+[训练次数:77400] Loss: 466.323
+[训练次数:77500] Loss: 523.961
+[训练次数:77600] Loss: 580.773
+[训练次数:77700] Loss: 639.065
+[训练次数:77800] Loss: 699.034
+[训练次数:77900] Loss: 757.922
+[训练次数:78000] Loss: 814.521
+[训练次数:78100] Loss: 874.755
+Compressing...
+开始测试!
+测试集上的loss：195.54619145393372
+测试分类准确率为：77.92
+85
+训练结束!
+0.2008630847930908 29.18609986782074
+56.29812598705292

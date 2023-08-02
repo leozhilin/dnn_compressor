@@ -13,18 +13,18 @@ def quantize(value, scale, zero_point):
 def dequantize(quantized_value, scale, zero_point, device='cuda:0'):
     # 将量化数值 quantized_value 还原为浮点数
     quantized_value = quantized_value.to(torch.float32)
-    if device == 'cpu':
-        device = torch.device('cpu')
-    elif device == 'cuda:0':
-        device = torch.device('cuda:0')
-    scale = scale.to(device)
-    zero_point = zero_point.to(device)
+    # if device == 'cpu':
+    #     device = torch.device('cpu')
+    # elif device == 'cuda:0':
+    #     device = torch.device('cuda:0')
+    # scale = scale.to(device)
+    # zero_point = zero_point.to(device)
     quantized_value = quantized_value.to(device)
     dequantized_value = (quantized_value - zero_point) * scale
     return dequantized_value
 
 
-def calculate_bit_width(model, L=100, k=10):
+def calculate_bit_width(model, L=1000, k=10):
     """
     This is a function which can calculate each layer's required bit-width of model by weighted entropy.
 
@@ -39,9 +39,8 @@ def calculate_bit_width(model, L=100, k=10):
     # 计算加权熵
     layer = 0
     E = [0] * L
-    state_dict_iter = iter(model.state_dict())
-    for name in state_dict_iter:
-        weights = model.state_dict()[name]
+    for param in model.parameters():
+        weights = param.data
         weights = weights.reshape(-1)
         area_intersect = torch.histc(weights, bins=k, min=0, max=0)
         # 计算每层的加权熵
@@ -69,14 +68,13 @@ def calculate_bit_width(model, L=100, k=10):
     return b
 
 
-def calculate_s_and_z(model, b, L=100):
+def calculate_s_and_z(model, b, L=1000):
     # 计算量化所需的S和Z
     S = [0] * L
     Z = [0] * L
-    state_dict_iter = iter(model.state_dict())
     layer = 0
-    for name in state_dict_iter:
-        weights = model.state_dict()[name]
+    for param in model.parameters():
+        weights = param.data
         scale = (torch.max(weights) - torch.min(weights)) / (2 ** b[layer] - 1)
         if scale == 0:
             scale = 1e-8
@@ -119,6 +117,7 @@ def quantize_model(model):
     S, Z = calculate_s_and_z(model, b)
     for i, (orig_param, quant_param) in enumerate(zip(model.parameters(), quantized_model.parameters())):
         quant_param.data = quantize(orig_param.data, S[i], Z[i])
+        # print(quant_param.data)
     return S, Z, quantized_model.state_dict()
 
 

@@ -1,3 +1,4 @@
+import os
 from glob import glob
 from torch.utils.data import Dataset
 from PIL import Image
@@ -5,7 +6,7 @@ from scipy.io import loadmat
 import torch
 from torch import nn
 from torch.utils.data import DataLoader
-from torchvision import transforms
+from torchvision import transforms, datasets
 
 
 # model = torch.load("vgg_lr002_epoch70.pth")
@@ -43,6 +44,37 @@ def model_test(model, img_path, label_path):
     print("start model test...")
     with torch.no_grad():
         for data in data_iter:
+            imgs, targets = data
+            imgs = imgs.to(device)
+            targets = targets.to(device)
+            output = model(imgs)
+            val_loss = loss(output, targets)
+            total_val_loss += val_loss.item()
+            accuracy = (output.argmax(1) == targets).sum()
+            print(accuracy)
+            total_accuracy += accuracy
+    print("整体验证集上的loss:{}".format(total_val_loss))
+    print("整体验证集上的正确率:{}".format(total_accuracy / length))
+def model_test_cifar10(model):
+    # 定义数据预处理的转换
+    transform_test = transforms.Compose([
+        transforms.ToTensor(),
+        transforms.Normalize((0.4914, 0.4822, 0.4465), (0.2023, 0.1994, 0.2010)),
+    ])
+    # 加载CIFAR-10测试集
+    testdata = datasets.CIFAR10(root="./", train=False, transform=transform_test, download=True)
+    # 创建DataLoader对象以便进行数据加载和批处理
+    testloader = torch.utils.data.DataLoader(testdata, batch_size=32, shuffle=False)
+    device = torch.device('cuda:0')
+    model = model.to(device)
+    length = len(testdata)
+    # 验证步骤
+    total_val_loss = 0
+    total_accuracy = 0
+    loss = nn.CrossEntropyLoss()
+    print("start model test...")
+    with torch.no_grad():
+        for data in testloader:
             imgs, targets = data
             imgs = imgs.to(device)
             targets = targets.to(device)
